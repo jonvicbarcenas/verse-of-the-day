@@ -5,8 +5,6 @@ Automated daily GitHub contributions with a random Bible verse.
 ## 📖 Today's Verse
 
 <!-- VERSE_START -->
-![Today's Verse](verse.svg)
-
 > **Nahum 2:3**
 >
 > *"[3] The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."*

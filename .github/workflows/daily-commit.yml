@@ -30,3 +30,4 @@ jobs:
         run: node index.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_BIBLE_KEY: ${{ secrets.API_BIBLE_KEY }}

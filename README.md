@@ -1,35 +1,42 @@
-# GitHub Auto Commit
+# Daily Bible Verse
 
-Automates daily GitHub contributions to maintain your green streak.
+Automated daily GitHub contributions with a random Bible verse.
+
+## 📖 Today's Verse
+
+<!-- VERSE_START -->
+> **Proverbs 3:5-6**
+>
+> *"Trust in the LORD with all thine heart; and lean not unto thine own understanding."*
+<!-- VERSE_END -->
+
+---
 
 ## Setup
 
-1. Create a new GitHub repository
-2. Clone it and copy these files into it
-3. Run `git init` if needed, then set your remote
+1. Get a free API key from [api.bible](https://scripture.api.bible)
+2. Set up the secret (see below)
+3. Run manually or let GitHub Actions handle it daily
 
-## Usage
+### Local Usage
 
-Run manually:
 ```bash
+# Set your API key
+$env:API_BIBLE_KEY="your-api-key"  # Windows PowerShell
+export API_BIBLE_KEY="your-api-key"  # Linux/Mac
+
+# Run
 npm run commit
 ```
 
-## Automate with Task Scheduler (Windows)
+### GitHub Actions (Automatic)
 
-1. Open Task Scheduler
-2. Create Basic Task → Name it "GitHub Auto Commit"
-3. Trigger: Daily at your preferred time
-4. Action: Start a program
-   - Program: `node`
-   - Arguments: `index.js`
-   - Start in: `C:\path\to\this\folder`
+1. Go to repo Settings → Secrets and variables → Actions
+2. Add secret: `API_BIBLE_KEY` with your API key
+3. Enable Actions write permissions: Settings → Actions → General → Workflow permissions → "Read and write permissions"
 
-## Automate with Cron (Linux/Mac)
+The workflow runs daily at midnight UTC, or trigger manually from the Actions tab.
 
-Add to crontab (`crontab -e`):
-```bash
-0 9 * * * cd /path/to/repo && node index.js
-```
+## History
 
-This runs daily at 9 AM.
+See [contributions.json](contributions.json) for verse history.

@@ -5,9 +5,9 @@ Automated daily GitHub contributions with a random Bible verse.
 ## 📖 Today's Verse
 
 <!-- VERSE_START -->
-> **Daniel 11:40**
+> **Nahum 2:3**
 >
-> *"[40] And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over."*
+> *"[3] The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."*
 <!-- VERSE_END -->
 
 ---

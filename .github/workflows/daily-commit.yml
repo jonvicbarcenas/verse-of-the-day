@@ -1,0 +1,32 @@
+name: Daily Contribution
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure Git
+        run: |
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
+
+      - name: Make contribution
+        run: node index.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

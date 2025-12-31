@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { execSync } = require('child_process');
 const fs = require('fs');
 
@@ -22,8 +23,8 @@ async function fetchDailyVerse() {
 
   try {
     // Get list of books
-    const booksRes = await fetch(`https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/books`, {
-      headers: { 'api-key': API_BIBLE_KEY }
+    const booksRes = await fetch(`https://rest.api.bible/v1/bibles/${BIBLE_ID}/books`, {
+      headers: { 'api-key': API_BIBLE_KEY, 'accept': 'application/json' }
     });
     
     if (!booksRes.ok) {
@@ -43,8 +44,8 @@ async function fetchDailyVerse() {
 
     // Get chapters for that book
     const chaptersRes = await fetch(
-      `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/books/${randomBook.id}/chapters`,
-      { headers: { 'api-key': API_BIBLE_KEY } }
+      `https://rest.api.bible/v1/bibles/${BIBLE_ID}/books/${randomBook.id}/chapters`,
+      { headers: { 'api-key': API_BIBLE_KEY, 'accept': 'application/json' } }
     );
     
     if (!chaptersRes.ok) {
@@ -69,8 +70,8 @@ async function fetchDailyVerse() {
 
     // Get verses for that chapter
     const versesRes = await fetch(
-      `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/chapters/${randomChapter.id}/verses`,
-      { headers: { 'api-key': API_BIBLE_KEY } }
+      `https://rest.api.bible/v1/bibles/${BIBLE_ID}/chapters/${randomChapter.id}/verses`,
+      { headers: { 'api-key': API_BIBLE_KEY, 'accept': 'application/json' } }
     );
     
     if (!versesRes.ok) {
@@ -90,8 +91,8 @@ async function fetchDailyVerse() {
 
     // Get the verse content
     const verseRes = await fetch(
-      `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/verses/${randomVerse.id}?content-type=text`,
-      { headers: { 'api-key': API_BIBLE_KEY } }
+      `https://rest.api.bible/v1/bibles/${BIBLE_ID}/verses/${randomVerse.id}?content-type=text`,
+      { headers: { 'api-key': API_BIBLE_KEY, 'accept': 'application/json' } }
     );
     
     if (!verseRes.ok) {

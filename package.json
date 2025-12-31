@@ -6,6 +6,13 @@
   "scripts": {
     "commit": "node index.js"
   },
-  "keywords": ["github", "automation", "contributions"],
-  "license": "MIT"
+  "keywords": [
+    "github",
+    "automation",
+    "contributions"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
 }

@@ -4,6 +4,7 @@ const fs = require('fs');
 
 const DATA_FILE = 'contributions.json';
 const README_FILE = 'README.md';
+const SVG_FILE = 'verse.svg';
 const API_BIBLE_KEY = process.env.API_BIBLE_KEY;
 const BIBLE_ID = 'de4e12af7f28f599-02'; // King James Version
 
@@ -140,10 +141,61 @@ function syncWithRemote() {
   }
 }
 
+function escapeXml(text) {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function wrapText(text, maxChars = 70) {
+  const words = text.split(' ');
+  const lines = [];
+  let currentLine = '';
+
+  for (const word of words) {
+    if ((currentLine + ' ' + word).trim().length <= maxChars) {
+      currentLine = (currentLine + ' ' + word).trim();
+    } else {
+      if (currentLine) lines.push(currentLine);
+      currentLine = word;
+    }
+  }
+  if (currentLine) lines.push(currentLine);
+  return lines;
+}
+
+function generateVerseSvg(verse) {
+  const lines = wrapText(verse.text, 65);
+  const lineHeight = 22;
+  const headerHeight = 50;
+  const padding = 20;
+  const height = Math.max(150, headerHeight + (lines.length * lineHeight) + padding * 2);
+
+  const textLines = lines.map((line, i) => 
+    `<tspan x="20" dy="${i === 0 ? 0 : lineHeight}">${escapeXml(line)}</tspan>`
+  ).join('');
+
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="500" height="${height}">
+  <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 ${escapeXml(verse.reference)}</text>
+  <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
+    ${textLines}
+  </text>
+</svg>`;
+
+  fs.writeFileSync(SVG_FILE, svg);
+  console.log('🎨 SVG verse card generated');
+}
+
 function updateReadme(verse) {
   let readme = fs.readFileSync(README_FILE, 'utf8');
   
   const verseSection = `<!-- VERSE_START -->
+![Today's Verse](verse.svg)
+
 > **${verse.reference}**
 >
 > *"${verse.text}"*
@@ -192,6 +244,9 @@ async function makeContribution() {
 
   // Update README with today's verse
   updateReadme(verse);
+
+  // Generate SVG verse card
+  generateVerseSvg(verse);
 
   // Git commands
   try {

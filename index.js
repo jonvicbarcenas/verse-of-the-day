@@ -119,13 +119,14 @@ async function fetchDailyVerse() {
 function syncWithRemote() {
   try {
     console.log('📥 Syncing with remote...');
-    execSync('git stash', { stdio: 'pipe' });
-    execSync('git pull origin main', { stdio: 'inherit' });
-    try {
-      execSync('git stash pop', { stdio: 'pipe' });
-    } catch {
-      // No stash to pop
+    // Ensure we're on main branch
+    const currentBranch = execSync('git branch --show-current', { encoding: 'utf8' }).trim();
+    if (currentBranch !== 'main') {
+      console.log(`⚠️ Currently on branch '${currentBranch}', switching to main...`);
+      execSync('git stash', { stdio: 'pipe' });
+      execSync('git checkout main', { stdio: 'inherit' });
     }
+    execSync('git pull origin main', { stdio: 'inherit' });
   } catch (error) {
     console.warn('⚠️ Sync warning, continuing...');
     try {

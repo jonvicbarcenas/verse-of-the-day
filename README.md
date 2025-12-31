@@ -5,9 +5,9 @@ Automated daily GitHub contributions with a random Bible verse.
 ## 📖 Today's Verse
 
 <!-- VERSE_START -->
-> **Acts 17:5**
+> **Daniel 11:40**
 >
-> *"[5] ¶ But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people."*
+> *"[40] And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over."*
 <!-- VERSE_END -->
 
 ---

@@ -5,9 +5,11 @@ Automated daily GitHub contributions with a random Bible verse.
 ## 📖 Today's Verse
 
 <!-- VERSE_START -->
-> **Nahum 2:3**
+![Today's Verse](verse.svg)
+
+> **Hosea 2:13**
 >
-> *"[3] The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."*
+> *"[13] And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD."*
 <!-- VERSE_END -->
 
 ---

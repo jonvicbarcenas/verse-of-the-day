@@ -6,13 +6,36 @@ const README_FILE = 'README.md';
 const API_BIBLE_KEY = process.env.API_BIBLE_KEY;
 const BIBLE_ID = 'de4e12af7f28f599-02'; // King James Version
 
+// Config: set to false to skip pushing (commit only)
+const SHOULD_PUSH = process.argv.includes('--no-push') ? false : true;
+
 async function fetchDailyVerse() {
+  const fallbackVerse = {
+    reference: 'Proverbs 3:5-6',
+    text: 'Trust in the LORD with all thine heart; and lean not unto thine own understanding.'
+  };
+
+  if (!API_BIBLE_KEY) {
+    console.warn('⚠️ API_BIBLE_KEY not set, using fallback verse');
+    return fallbackVerse;
+  }
+
   try {
     // Get list of books
     const booksRes = await fetch(`https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/books`, {
       headers: { 'api-key': API_BIBLE_KEY }
     });
+    
+    if (!booksRes.ok) {
+      console.error('API error (books):', booksRes.status, await booksRes.text());
+      return fallbackVerse;
+    }
+
     const booksData = await booksRes.json();
+    if (!booksData.data || !Array.isArray(booksData.data) || booksData.data.length === 0) {
+      console.error('No books returned from API');
+      return fallbackVerse;
+    }
     const books = booksData.data;
 
     // Pick a random book
@@ -23,8 +46,23 @@ async function fetchDailyVerse() {
       `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/books/${randomBook.id}/chapters`,
       { headers: { 'api-key': API_BIBLE_KEY } }
     );
+    
+    if (!chaptersRes.ok) {
+      console.error('API error (chapters):', chaptersRes.status, await chaptersRes.text());
+      return fallbackVerse;
+    }
+
     const chaptersData = await chaptersRes.json();
+    if (!chaptersData.data || !Array.isArray(chaptersData.data)) {
+      console.error('No chapters returned');
+      return fallbackVerse;
+    }
     const chapters = chaptersData.data.filter(c => c.id !== `${randomBook.id}.intro`);
+
+    if (chapters.length === 0) {
+      console.error('No chapters found after filtering');
+      return fallbackVerse;
+    }
 
     // Pick a random chapter
     const randomChapter = chapters[Math.floor(Math.random() * chapters.length)];
@@ -34,7 +72,17 @@ async function fetchDailyVerse() {
       `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/chapters/${randomChapter.id}/verses`,
       { headers: { 'api-key': API_BIBLE_KEY } }
     );
+    
+    if (!versesRes.ok) {
+      console.error('API error (verses):', versesRes.status, await versesRes.text());
+      return fallbackVerse;
+    }
+
     const versesData = await versesRes.json();
+    if (!versesData.data || !Array.isArray(versesData.data) || versesData.data.length === 0) {
+      console.error('No verses returned');
+      return fallbackVerse;
+    }
     const verses = versesData.data;
 
     // Pick a random verse
@@ -45,18 +93,26 @@ async function fetchDailyVerse() {
       `https://api.scripture.api.bible/v1/bibles/${BIBLE_ID}/verses/${randomVerse.id}?content-type=text`,
       { headers: { 'api-key': API_BIBLE_KEY } }
     );
+    
+    if (!verseRes.ok) {
+      console.error('API error (verse content):', verseRes.status, await verseRes.text());
+      return fallbackVerse;
+    }
+
     const verseData = await verseRes.json();
+
+    if (!verseData.data) {
+      console.error('No verse content returned');
+      return fallbackVerse;
+    }
 
     return {
       reference: verseData.data.reference,
       text: verseData.data.content.trim()
     };
   } catch (error) {
-    console.error('Failed to fetch verse:', error.message);
-    return {
-      reference: 'Proverbs 3:5-6',
-      text: 'Trust in the LORD with all thine heart; and lean not unto thine own understanding.'
-    };
+    console.error('Failed to fetch verse:', error);
+    return fallbackVerse;
   }
 }
 
@@ -140,15 +196,18 @@ async function makeContribution() {
     execSync('git add .', { stdio: 'inherit' });
     execSync(`git commit -m "📖 ${verse.reference}"`, { stdio: 'inherit' });
 
-    if (process.env.GITHUB_TOKEN) {
-      const repo = process.env.GITHUB_REPOSITORY;
-      const remote = `https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/${repo}.git`;
-      execSync(`git push ${remote} HEAD:main`, { stdio: 'inherit' });
+    if (SHOULD_PUSH) {
+      if (process.env.GITHUB_TOKEN) {
+        const repo = process.env.GITHUB_REPOSITORY;
+        const remote = `https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/${repo}.git`;
+        execSync(`git push ${remote} HEAD:main`, { stdio: 'inherit' });
+      } else {
+        execSync('git push -u origin main', { stdio: 'inherit' });
+      }
+      console.log(`\n✅ Contribution #${data.count} pushed successfully!`);
     } else {
-      execSync('git push -u origin main', { stdio: 'inherit' });
+      console.log(`\n✅ Contribution #${data.count} committed (push skipped)`);
     }
-
-    console.log(`\n✅ Contribution #${data.count} pushed successfully!`);
   } catch (error) {
     console.error('❌ Git operation failed:', error.message);
     process.exit(1);

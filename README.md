@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Hosea 2:13**
+> **3 John 1:2**
 >
-> *"[13] And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD."*
+> *"[2] Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."*
 <!-- VERSE_END -->
 
 ---

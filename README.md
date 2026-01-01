@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **3 John 1:2**
+> **Proverbs 23:2**
 >
-> *"[2] Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."*
+> *"[2] And put a knife to thy throat, if thou be a man given to appetite."*
 <!-- VERSE_END -->
 
 ---

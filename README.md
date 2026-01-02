@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Proverbs 23:2**
+> **Romans 3:17**
 >
-> *"[2] And put a knife to thy throat, if thou be a man given to appetite."*
+> *"[17] And the way of peace have they not known:"*
 <!-- VERSE_END -->
 
 ---

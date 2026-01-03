@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Romans 3:17**
+> **Ecclesiastes 1:2**
 >
-> *"[17] And the way of peace have they not known:"*
+> *"[2] Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."*
 <!-- VERSE_END -->
 
 ---

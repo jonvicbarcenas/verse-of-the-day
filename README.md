@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ecclesiastes 1:2**
+> **Exodus 14:20**
 >
-> *"[2] Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."*
+> *"[20] And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night."*
 <!-- VERSE_END -->
 
 ---

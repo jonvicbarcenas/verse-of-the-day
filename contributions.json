@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 27,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -130,6 +130,12 @@
       "commit": 26,
       "verse": "Ecclesiastes 1:2",
       "text": "[2] Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."
+    },
+    {
+      "date": "2026-01-04T02:25:01.383Z",
+      "commit": 27,
+      "verse": "Exodus 14:20",
+      "text": "[20] And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night."
     }
   ]
 }

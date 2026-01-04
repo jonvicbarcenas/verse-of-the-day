@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ecclesiastes 1:2</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Exodus 14:20</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[2] Vanity of vanities, saith the Preacher, vanity of vanities;</tspan><tspan x="20" dy="22">all is vanity.</tspan>
+    <tspan x="20" dy="0">[20] And it came between the camp of the Egyptians and the camp</tspan><tspan x="20" dy="22">of Israel; and it was a cloud and darkness to them, but it gave</tspan><tspan x="20" dy="22">light by night to these: so that the one came not near the other</tspan><tspan x="20" dy="22">all the night.</tspan>
   </text>
 </svg>

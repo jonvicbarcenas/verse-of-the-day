@@ -1,5 +1,5 @@
 {
-  "count": 27,
+  "count": 28,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -136,6 +136,12 @@
       "commit": 27,
       "verse": "Exodus 14:20",
       "text": "[20] And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night."
+    },
+    {
+      "date": "2026-01-05T02:24:35.420Z",
+      "commit": 28,
+      "verse": "Zephaniah 1:4",
+      "text": "[4] I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;"
     }
   ]
 }

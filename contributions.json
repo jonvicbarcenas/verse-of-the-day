@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 42,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -220,6 +220,12 @@
       "commit": 41,
       "verse": "Ezra 4:23",
       "text": "[23] ¶ Now when the copy of king Artaxerxes’ letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."
+    },
+    {
+      "date": "2026-01-06T22:22:13.374Z",
+      "commit": 42,
+      "verse": "Lamentations 4:6",
+      "text": "[6] For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ecclesiastes 3:3**
+> **2 Corinthians 3:16**
 >
-> *"[3] A time to kill, and a time to heal; a time to break down, and a time to build up;"*
+> *"[16] Nevertheless when it shall turn to the Lord, the vail shall be taken away."*
 <!-- VERSE_END -->
 
 ---

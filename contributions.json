@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 35,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -178,6 +178,12 @@
       "commit": 34,
       "verse": "Ecclesiastes 3:3",
       "text": "[3] A time to kill, and a time to heal; a time to break down, and a time to build up;"
+    },
+    {
+      "date": "2026-01-06T15:24:28.287Z",
+      "commit": 35,
+      "verse": "2 Corinthians 3:16",
+      "text": "[16] Nevertheless when it shall turn to the Lord, the vail shall be taken away."
     }
   ]
 }

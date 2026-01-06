@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Daniel 10:8**
+> **Ezra 4:23**
 >
-> *"[8] Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength."*
+> *"[23] ¶ Now when the copy of king Artaxerxes’ letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."*
 <!-- VERSE_END -->
 
 ---

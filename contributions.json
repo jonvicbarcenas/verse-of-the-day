@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -214,6 +214,12 @@
       "commit": 40,
       "verse": "Daniel 10:8",
       "text": "[8] Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength."
+    },
+    {
+      "date": "2026-01-06T21:21:36.981Z",
+      "commit": 41,
+      "verse": "Ezra 4:23",
+      "text": "[23] ¶ Now when the copy of king Artaxerxes’ letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."
     }
   ]
 }

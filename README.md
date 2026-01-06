@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Deuteronomy 6:17**
+> **1 Chronicles 24:14**
 >
-> *"[17] Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee."*
+> *"[14] The fifteenth to Bilgah, the sixteenth to Immer,"*
 <!-- VERSE_END -->
 
 ---

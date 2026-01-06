@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Mark 1:7**
+> **Ecclesiastes 3:3**
 >
-> *"[7] And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose."*
+> *"[3] A time to kill, and a time to heal; a time to break down, and a time to build up;"*
 <!-- VERSE_END -->
 
 ---

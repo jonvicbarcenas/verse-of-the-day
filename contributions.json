@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 39,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -202,6 +202,12 @@
       "commit": 38,
       "verse": "Esther 3:12",
       "text": "[12] Then were the king’s scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king’s lieutenants, and to the governors that were over every province, and to the rulers of every people of every province according to the writing thereof, and to every people after their language; in the name of king Ahasuerus was it written, and sealed with the king’s ring."
+    },
+    {
+      "date": "2026-01-06T19:17:38.078Z",
+      "commit": 39,
+      "verse": "Proverbs 31:22",
+      "text": "[22] She maketh herself coverings of tapestry; her clothing is silk and purple."
     }
   ]
 }

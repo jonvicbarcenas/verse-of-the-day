@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Esther 3:12**
+> **Proverbs 31:22**
 >
-> *"[12] Then were the king’s scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king’s lieutenants, and to the governors that were over every province, and to the rulers of every people of every province according to the writing thereof, and to every people after their language; in the name of king Ahasuerus was it written, and sealed with the king’s ring."*
+> *"[22] She maketh herself coverings of tapestry; her clothing is silk and purple."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 John 1:8**
+> **1 Thessalonians 2:9**
 >
-> *"[8] Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward."*
+> *"[9] For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God."*
 <!-- VERSE_END -->
 
 ---

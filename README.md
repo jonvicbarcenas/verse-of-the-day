@@ -16,7 +16,7 @@ Automated daily GitHub contributions with a random Bible verse.
 
 ## Setup
 
-1. Get a free API key from [api.bible](https://scripture.api.bible)
+1. Get a free API key from [api.bible](https://api.bible)
 2. Set up the secret (see below)
 3. Run manually or let GitHub Actions handle it daily
 

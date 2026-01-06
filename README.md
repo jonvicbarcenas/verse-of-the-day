@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Zephaniah 1:4**
+> **Deuteronomy 6:17**
 >
-> *"[4] I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;"*
+> *"[17] Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 36,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -184,6 +184,12 @@
       "commit": 35,
       "verse": "2 Corinthians 3:16",
       "text": "[16] Nevertheless when it shall turn to the Lord, the vail shall be taken away."
+    },
+    {
+      "date": "2026-01-06T16:30:29.341Z",
+      "commit": 36,
+      "verse": "2 Corinthians 1:11",
+      "text": "[11] Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf."
     }
   ]
 }

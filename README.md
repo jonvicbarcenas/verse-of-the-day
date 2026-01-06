@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Corinthians 3:16**
+> **2 Corinthians 1:11**
 >
-> *"[16] Nevertheless when it shall turn to the Lord, the vail shall be taken away."*
+> *"[11] Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf."*
 <!-- VERSE_END -->
 
 ---

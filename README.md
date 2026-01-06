@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Lamentations 4:6**
+> **Daniel 7:15**
 >
-> *"[6] For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her."*
+> *"[15] ¶ I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me."*
 <!-- VERSE_END -->
 
 ---

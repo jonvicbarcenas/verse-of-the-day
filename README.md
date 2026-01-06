@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Proverbs 31:22**
+> **Daniel 10:8**
 >
-> *"[22] She maketh herself coverings of tapestry; her clothing is silk and purple."*
+> *"[8] Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength."*
 <!-- VERSE_END -->
 
 ---

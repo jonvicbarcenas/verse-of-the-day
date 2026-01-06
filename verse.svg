@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Proverbs 31:22</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Daniel 10:8</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[22] She maketh herself coverings of tapestry; her clothing is</tspan><tspan x="20" dy="22">silk and purple.</tspan>
+    <tspan x="20" dy="0">[8] Therefore I was left alone, and saw this great vision, and</tspan><tspan x="20" dy="22">there remained no strength in me: for my comeliness was turned in</tspan><tspan x="20" dy="22">me into corruption, and I retained no strength.</tspan>
   </text>
 </svg>

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Chronicles 24:14**
+> **2 John 1:8**
 >
-> *"[14] The fifteenth to Bilgah, the sixteenth to Immer,"*
+> *"[8] Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward."*
 <!-- VERSE_END -->
 
 ---

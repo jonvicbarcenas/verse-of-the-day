@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 37,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -190,6 +190,12 @@
       "commit": 36,
       "verse": "2 Corinthians 1:11",
       "text": "[11] Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf."
+    },
+    {
+      "date": "2026-01-06T17:23:33.626Z",
+      "commit": 37,
+      "verse": "Judges 6:11",
+      "text": "[11] ¶ And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abi-ezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites."
     }
   ]
 }

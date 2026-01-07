@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Song of Solomon 5:5**
+> **Habakkuk 3:14**
 >
-> *"[5] I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."*
+> *"[14] Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly."*
 <!-- VERSE_END -->
 
 ---

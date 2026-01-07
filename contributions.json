@@ -1,5 +1,5 @@
 {
-  "count": 44,
+  "count": 45,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -238,6 +238,12 @@
       "commit": 44,
       "verse": "Song of Solomon 5:5",
       "text": "[5] I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."
+    },
+    {
+      "date": "2026-01-07T03:39:37.952Z",
+      "commit": 45,
+      "verse": "Habakkuk 3:14",
+      "text": "[14] Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Habakkuk 3:14**
+> **1 Peter 1:21**
 >
-> *"[14] Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly."*
+> *"[21] Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."*
 <!-- VERSE_END -->
 
 ---

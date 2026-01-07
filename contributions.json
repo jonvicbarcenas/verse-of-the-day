@@ -1,5 +1,5 @@
 {
-  "count": 45,
+  "count": 46,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -244,6 +244,12 @@
       "commit": 45,
       "verse": "Habakkuk 3:14",
       "text": "[14] Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly."
+    },
+    {
+      "date": "2026-01-07T04:41:01.050Z",
+      "commit": 46,
+      "verse": "1 Peter 1:21",
+      "text": "[21] Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."
     }
   ]
 }

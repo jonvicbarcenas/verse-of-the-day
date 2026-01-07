@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Colossians 4:14**
+> **Micah 2:1**
 >
-> *"[14] Luke, the beloved physician, and Demas, greet you."*
+> *"[1] Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 49,
+  "count": 50,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -268,6 +268,12 @@
       "commit": 49,
       "verse": "Colossians 4:14",
       "text": "[14] Luke, the beloved physician, and Demas, greet you."
+    },
+    {
+      "date": "2026-01-07T08:32:23.003Z",
+      "commit": 50,
+      "verse": "Micah 2:1",
+      "text": "[1] Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand."
     }
   ]
 }

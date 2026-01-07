@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Samuel 5:18**
+> **Colossians 4:14**
 >
-> *"[18] The Philistines also came and spread themselves in the valley of Rephaim."*
+> *"[14] Luke, the beloved physician, and Demas, greet you."*
 <!-- VERSE_END -->
 
 ---

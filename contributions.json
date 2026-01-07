@@ -1,5 +1,5 @@
 {
-  "count": 54,
+  "count": 55,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -298,6 +298,12 @@
       "commit": 54,
       "verse": "Nehemiah 5:16",
       "text": "[16] Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."
+    },
+    {
+      "date": "2026-01-07T13:40:01.120Z",
+      "commit": 55,
+      "verse": "Jonah 1:15",
+      "text": "[15] So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."
     }
   ]
 }

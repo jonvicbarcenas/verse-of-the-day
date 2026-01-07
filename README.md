@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nehemiah 5:16**
+> **Jonah 1:15**
 >
-> *"[16] Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."*
+> *"[15] So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."*
 <!-- VERSE_END -->
 
 ---

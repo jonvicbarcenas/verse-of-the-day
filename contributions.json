@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 61,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -334,6 +334,12 @@
       "commit": 60,
       "verse": "3 John 1:11",
       "text": "[11] Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God."
+    },
+    {
+      "date": "2026-01-07T19:20:35.497Z",
+      "commit": 61,
+      "verse": "Isaiah 29:21",
+      "text": "[21] That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
     }
   ]
 }

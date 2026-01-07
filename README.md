@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **3 John 1:11**
+> **Isaiah 29:21**
 >
-> *"[11] Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God."*
+> *"[21] That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Luke 12:2**
+> **3 John 1:11**
 >
-> *"[2] For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."*
+> *"[11] Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God."*
 <!-- VERSE_END -->
 
 ---

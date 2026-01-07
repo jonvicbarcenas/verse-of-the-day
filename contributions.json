@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 53,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -286,6 +286,12 @@
       "commit": 52,
       "verse": "2 Thessalonians 2:4",
       "text": "[4] Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God."
+    },
+    {
+      "date": "2026-01-07T11:20:56.946Z",
+      "commit": 53,
+      "verse": "Exodus 6:10",
+      "text": "[10] And the LORD spake unto Moses, saying,"
     }
   ]
 }

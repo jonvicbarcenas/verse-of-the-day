@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Joel 1:11</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Samuel 5:18</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[11] Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for</tspan><tspan x="20" dy="22">the wheat and for the barley; because the harvest of the field is</tspan><tspan x="20" dy="22">perished.</tspan>
+    <tspan x="20" dy="0">[18] The Philistines also came and spread themselves in the</tspan><tspan x="20" dy="22">valley of Rephaim.</tspan>
   </text>
 </svg>

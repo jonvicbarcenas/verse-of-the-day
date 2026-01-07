@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Joel 1:11**
+> **2 Samuel 5:18**
 >
-> *"[11] Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished."*
+> *"[18] The Philistines also came and spread themselves in the valley of Rephaim."*
 <!-- VERSE_END -->
 
 ---

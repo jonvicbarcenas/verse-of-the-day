@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Exodus 6:10**
+> **Nehemiah 5:16**
 >
-> *"[10] And the LORD spake unto Moses, saying,"*
+> *"[16] Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."*
 <!-- VERSE_END -->
 
 ---

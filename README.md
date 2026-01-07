@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Daniel 7:15**
+> **Song of Solomon 5:5**
 >
-> *"[15] ¶ I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me."*
+> *"[5] I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."*
 <!-- VERSE_END -->
 
 ---

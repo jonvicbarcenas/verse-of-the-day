@@ -1,5 +1,5 @@
 {
-  "count": 56,
+  "count": 57,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -310,6 +310,12 @@
       "commit": 56,
       "verse": "Hebrews 2:12",
       "text": "[12] Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee."
+    },
+    {
+      "date": "2026-01-07T15:26:30.448Z",
+      "commit": 57,
+      "verse": "1 Kings 1:34",
+      "text": "[34] And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon."
     }
   ]
 }

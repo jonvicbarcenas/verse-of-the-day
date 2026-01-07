@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Hebrews 2:12</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Kings 1:34</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[12] Saying, I will declare thy name unto my brethren, in the</tspan><tspan x="20" dy="22">midst of the church will I sing praise unto thee.</tspan>
+    <tspan x="20" dy="0">[34] And let Zadok the priest and Nathan the prophet anoint him</tspan><tspan x="20" dy="22">there king over Israel: and blow ye with the trumpet, and say,</tspan><tspan x="20" dy="22">God save king Solomon.</tspan>
   </text>
 </svg>

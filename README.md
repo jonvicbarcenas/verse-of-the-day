@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Hebrews 2:12**
+> **1 Kings 1:34**
 >
-> *"[12] Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee."*
+> *"[34] And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon."*
 <!-- VERSE_END -->
 
 ---

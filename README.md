@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Luke 7:23**
+> **Galatians 4:19**
 >
-> *"[23] And blessed is he, whosoever shall not be offended in me."*
+> *"[19] My little children, of whom I travail in birth again until Christ be formed in you,"*
 <!-- VERSE_END -->
 
 ---

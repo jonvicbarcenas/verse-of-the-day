@@ -1,5 +1,5 @@
 {
-  "count": 61,
+  "count": 62,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -340,6 +340,12 @@
       "commit": 61,
       "verse": "Isaiah 29:21",
       "text": "[21] That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
+    },
+    {
+      "date": "2026-01-07T20:26:49.196Z",
+      "commit": 62,
+      "verse": "Malachi 3:18",
+      "text": "[18] Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not."
     }
   ]
 }

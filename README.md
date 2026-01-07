@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Isaiah 29:21**
+> **Malachi 3:18**
 >
-> *"[21] That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."*
+> *"[18] Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not."*
 <!-- VERSE_END -->
 
 ---

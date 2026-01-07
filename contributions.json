@@ -1,5 +1,5 @@
 {
-  "count": 51,
+  "count": 52,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -280,6 +280,12 @@
       "commit": 51,
       "verse": "Nehemiah 11:7",
       "text": "[7] And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah."
+    },
+    {
+      "date": "2026-01-07T10:25:57.364Z",
+      "commit": 52,
+      "verse": "2 Thessalonians 2:4",
+      "text": "[4] Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "count": 50,
+  "count": 51,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -274,6 +274,12 @@
       "commit": 50,
       "verse": "Micah 2:1",
       "text": "[1] Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand."
+    },
+    {
+      "date": "2026-01-07T09:29:05.516Z",
+      "commit": 51,
+      "verse": "Nehemiah 11:7",
+      "text": "[7] And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah."
     }
   ]
 }

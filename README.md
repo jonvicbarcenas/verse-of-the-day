@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Malachi 3:18**
+> **Luke 7:23**
 >
-> *"[18] Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not."*
+> *"[23] And blessed is he, whosoever shall not be offended in me."*
 <!-- VERSE_END -->
 
 ---

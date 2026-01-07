@@ -1,5 +1,5 @@
 {
-  "count": 62,
+  "count": 63,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -346,6 +346,12 @@
       "commit": 62,
       "verse": "Malachi 3:18",
       "text": "[18] Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not."
+    },
+    {
+      "date": "2026-01-07T21:21:11.843Z",
+      "commit": 63,
+      "verse": "Luke 7:23",
+      "text": "[23] And blessed is he, whosoever shall not be offended in me."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 5:7**
+> **Luke 12:2**
 >
-> *"[7] And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering."*
+> *"[2] For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."*
 <!-- VERSE_END -->
 
 ---

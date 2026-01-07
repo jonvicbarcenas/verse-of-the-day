@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Peter 1:21**
+> **Joel 1:11**
 >
-> *"[21] Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."*
+> *"[11] Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished."*
 <!-- VERSE_END -->
 
 ---

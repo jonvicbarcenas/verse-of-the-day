@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Jonah 1:15**
+> **Hebrews 2:12**
 >
-> *"[15] So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."*
+> *"[12] Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee."*
 <!-- VERSE_END -->
 
 ---

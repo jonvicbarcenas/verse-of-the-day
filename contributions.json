@@ -1,5 +1,5 @@
 {
-  "count": 64,
+  "count": 65,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -358,6 +358,12 @@
       "commit": 64,
       "verse": "Galatians 4:19",
       "text": "[19] My little children, of whom I travail in birth again until Christ be formed in you,"
+    },
+    {
+      "date": "2026-01-07T23:20:54.920Z",
+      "commit": 65,
+      "verse": "1 Chronicles 19:7",
+      "text": "[7] So they hired thirty and two thousand chariots, and the king of Maachah and his people; who came and pitched before Medeba. And the children of Ammon gathered themselves together from their cities, and came to battle."
     }
   ]
 }

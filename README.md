@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Isaiah 10:11**
+> **Song of Solomon 5:12**
 >
-> *"[11] Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her idols?"*
+> *"[12] His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."*
 <!-- VERSE_END -->
 
 ---

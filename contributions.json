@@ -1,5 +1,5 @@
 {
-  "count": 86,
+  "count": 87,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -490,6 +490,12 @@
       "commit": 86,
       "verse": "Isaiah 10:11",
       "text": "[11] Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her idols?"
+    },
+    {
+      "date": "2026-01-08T23:18:49.407Z",
+      "commit": 87,
+      "verse": "Song of Solomon 5:12",
+      "text": "[12] His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."
     }
   ]
 }

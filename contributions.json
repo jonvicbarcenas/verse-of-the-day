@@ -1,5 +1,5 @@
 {
-  "count": 71,
+  "count": 72,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -400,6 +400,12 @@
       "commit": 71,
       "verse": "2 Thessalonians 2:8",
       "text": "[8] And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:"
+    },
+    {
+      "date": "2026-01-08T08:32:06.175Z",
+      "commit": 72,
+      "verse": "Esther 8:12",
+      "text": "[12] Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar."
     }
   ]
 }

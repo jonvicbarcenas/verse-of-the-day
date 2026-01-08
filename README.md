@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Joshua 21:10**
+> **Zechariah 8:13**
 >
-> *"[10] Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."*
+> *"[13] And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 81,
+  "count": 82,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -460,6 +460,12 @@
       "commit": 81,
       "verse": "Joshua 21:10",
       "text": "[10] Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."
+    },
+    {
+      "date": "2026-01-08T18:30:05.743Z",
+      "commit": 82,
+      "verse": "Zechariah 8:13",
+      "text": "[13] And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong."
     }
   ]
 }

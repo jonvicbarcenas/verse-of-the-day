@@ -1,5 +1,5 @@
 {
-  "count": 80,
+  "count": 81,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -454,6 +454,12 @@
       "commit": 80,
       "verse": "1 Kings 20:23",
       "text": "[23] And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they."
+    },
+    {
+      "date": "2026-01-08T17:27:12.575Z",
+      "commit": 81,
+      "verse": "Joshua 21:10",
+      "text": "[10] Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."
     }
   ]
 }

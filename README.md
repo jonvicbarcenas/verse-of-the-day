@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Kings 20:23**
+> **Joshua 21:10**
 >
-> *"[23] And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they."*
+> *"[10] Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."*
 <!-- VERSE_END -->
 
 ---

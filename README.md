@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Haggai 1:2**
+> **Romans 7:11**
 >
-> *"[2] Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD’s house should be built."*
+> *"[11] For sin, taking occasion by the commandment, deceived me, and by it slew me."*
 <!-- VERSE_END -->
 
 ---

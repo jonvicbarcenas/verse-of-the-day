@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Haggai 1:2</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Romans 7:11</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[2] Thus speaketh the LORD of hosts, saying, This people say, The</tspan><tspan x="20" dy="22">time is not come, the time that the LORD’s house should be built.</tspan>
+    <tspan x="20" dy="0">[11] For sin, taking occasion by the commandment, deceived me,</tspan><tspan x="20" dy="22">and by it slew me.</tspan>
   </text>
 </svg>

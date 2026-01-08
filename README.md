@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Peter 4:5**
+> **Leviticus 13:16**
 >
-> *"[5] Who shall give account to him that is ready to judge the quick and the dead."*
+> *"[16] Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"*
 <!-- VERSE_END -->
 
 ---

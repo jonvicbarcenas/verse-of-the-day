@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Peter 4:5</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Leviticus 13:16</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[5] Who shall give account to him that is ready to judge the</tspan><tspan x="20" dy="22">quick and the dead.</tspan>
+    <tspan x="20" dy="0">[16] Or if the raw flesh turn again, and be changed unto white,</tspan><tspan x="20" dy="22">he shall come unto the priest;</tspan>
   </text>
 </svg>

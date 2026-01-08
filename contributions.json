@@ -1,5 +1,5 @@
 {
-  "count": 73,
+  "count": 74,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -412,6 +412,12 @@
       "commit": 73,
       "verse": "1 Peter 4:5",
       "text": "[5] Who shall give account to him that is ready to judge the quick and the dead."
+    },
+    {
+      "date": "2026-01-08T10:25:43.236Z",
+      "commit": 74,
+      "verse": "Leviticus 13:16",
+      "text": "[16] Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"
     }
   ]
 }

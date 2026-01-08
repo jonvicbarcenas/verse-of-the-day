@@ -1,5 +1,5 @@
 {
-  "count": 79,
+  "count": 80,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -448,6 +448,12 @@
       "commit": 79,
       "verse": "Numbers 17:5",
       "text": "[5] And it shall come to pass, that the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you."
+    },
+    {
+      "date": "2026-01-08T16:31:21.785Z",
+      "commit": 80,
+      "verse": "1 Kings 20:23",
+      "text": "[23] And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they."
     }
   ]
 }

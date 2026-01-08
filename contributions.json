@@ -1,5 +1,5 @@
 {
-  "count": 66,
+  "count": 67,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -370,6 +370,12 @@
       "commit": 66,
       "verse": "Zephaniah 2:4",
       "text": "[4] ¶ For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up."
+    },
+    {
+      "date": "2026-01-08T03:39:49.412Z",
+      "commit": 67,
+      "verse": "Numbers 9:5",
+      "text": "[5] And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel."
     }
   ]
 }

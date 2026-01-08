@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Kings 2:34**
+> **Isaiah 10:11**
 >
-> *"[34] So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness."*
+> *"[11] Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her idols?"*
 <!-- VERSE_END -->
 
 ---

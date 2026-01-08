@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Thessalonians 1:9**
+> **John 4:15**
 >
-> *"[9] Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"*
+> *"[15] The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw."*
 <!-- VERSE_END -->
 
 ---

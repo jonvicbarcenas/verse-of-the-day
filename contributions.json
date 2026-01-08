@@ -1,5 +1,5 @@
 {
-  "count": 68,
+  "count": 69,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -382,6 +382,12 @@
       "commit": 68,
       "verse": "2 Thessalonians 1:9",
       "text": "[9] Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"
+    },
+    {
+      "date": "2026-01-08T05:25:56.093Z",
+      "commit": 69,
+      "verse": "John 4:15",
+      "text": "[15] The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw."
     }
   ]
 }

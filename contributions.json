@@ -1,5 +1,5 @@
 {
-  "count": 84,
+  "count": 85,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -478,6 +478,12 @@
       "commit": 84,
       "verse": "Romans 7:11",
       "text": "[11] For sin, taking occasion by the commandment, deceived me, and by it slew me."
+    },
+    {
+      "date": "2026-01-08T21:22:00.223Z",
+      "commit": 85,
+      "verse": "1 Kings 2:34",
+      "text": "[34] So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness."
     }
   ]
 }

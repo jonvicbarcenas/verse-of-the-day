@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Romans 7:11**
+> **1 Kings 2:34**
 >
-> *"[11] For sin, taking occasion by the commandment, deceived me, and by it slew me."*
+> *"[34] So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness."*
 <!-- VERSE_END -->
 
 ---

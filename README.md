@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Esther 8:12**
+> **1 Peter 4:5**
 >
-> *"[12] Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar."*
+> *"[5] Who shall give account to him that is ready to judge the quick and the dead."*
 <!-- VERSE_END -->
 
 ---

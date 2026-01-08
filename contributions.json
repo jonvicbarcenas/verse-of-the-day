@@ -1,5 +1,5 @@
 {
-  "count": 72,
+  "count": 73,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -406,6 +406,12 @@
       "commit": 72,
       "verse": "Esther 8:12",
       "text": "[12] Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar."
+    },
+    {
+      "date": "2026-01-08T09:29:00.610Z",
+      "commit": 73,
+      "verse": "1 Peter 4:5",
+      "text": "[5] Who shall give account to him that is ready to judge the quick and the dead."
     }
   ]
 }

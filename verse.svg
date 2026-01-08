@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 James 2:24</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Numbers 17:5</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[24] Ye see then how that by works a man is justified, and not by</tspan><tspan x="20" dy="22">faith only.</tspan>
+    <tspan x="20" dy="0">[5] And it shall come to pass, that the man’s rod, whom I shall</tspan><tspan x="20" dy="22">choose, shall blossom: and I will make to cease from me the</tspan><tspan x="20" dy="22">murmurings of the children of Israel, whereby they murmur against</tspan><tspan x="20" dy="22">you.</tspan>
   </text>
 </svg>

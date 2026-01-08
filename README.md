@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **James 2:24**
+> **Numbers 17:5**
 >
-> *"[24] Ye see then how that by works a man is justified, and not by faith only."*
+> *"[5] And it shall come to pass, that the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you."*
 <!-- VERSE_END -->
 
 ---

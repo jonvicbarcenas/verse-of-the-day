@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Peter 3:13</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Thessalonians 2:8</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[13] Nevertheless we, according to his promise, look for new</tspan><tspan x="20" dy="22">heavens and a new earth, wherein dwelleth righteousness.</tspan>
+    <tspan x="20" dy="0">[8] And then shall that Wicked be revealed, whom the Lord shall</tspan><tspan x="20" dy="22">consume with the spirit of his mouth, and shall destroy with the</tspan><tspan x="20" dy="22">brightness of his coming:</tspan>
   </text>
 </svg>

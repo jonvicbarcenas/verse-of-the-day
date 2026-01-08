@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Peter 3:13**
+> **2 Thessalonians 2:8**
 >
-> *"[13] Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness."*
+> *"[8] And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:"*
 <!-- VERSE_END -->
 
 ---

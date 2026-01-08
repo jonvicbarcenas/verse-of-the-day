@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **John 4:15**
+> **2 Peter 3:13**
 >
-> *"[15] The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw."*
+> *"[13] Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Numbers 9:5</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Thessalonians 1:9</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[5] And they kept the passover on the fourteenth day of the first</tspan><tspan x="20" dy="22">month at even in the wilderness of Sinai: according to all that</tspan><tspan x="20" dy="22">the LORD commanded Moses, so did the children of Israel.</tspan>
+    <tspan x="20" dy="0">[9] Who shall be punished with everlasting destruction from the</tspan><tspan x="20" dy="22">presence of the Lord, and from the glory of his power;</tspan>
   </text>
 </svg>

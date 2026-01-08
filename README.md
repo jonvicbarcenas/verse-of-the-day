@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Numbers 9:5**
+> **2 Thessalonians 1:9**
 >
-> *"[5] And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel."*
+> *"[9] Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 82,
+  "count": 83,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -466,6 +466,12 @@
       "commit": 82,
       "verse": "Zechariah 8:13",
       "text": "[13] And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong."
+    },
+    {
+      "date": "2026-01-08T19:20:39.980Z",
+      "commit": 83,
+      "verse": "Haggai 1:2",
+      "text": "[2] Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD’s house should be built."
     }
   ]
 }

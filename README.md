@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Zechariah 8:13**
+> **Haggai 1:2**
 >
-> *"[13] And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong."*
+> *"[2] Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD’s house should be built."*
 <!-- VERSE_END -->
 
 ---

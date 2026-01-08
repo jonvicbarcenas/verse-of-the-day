@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 75,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -418,6 +418,12 @@
       "commit": 74,
       "verse": "Leviticus 13:16",
       "text": "[16] Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"
+    },
+    {
+      "date": "2026-01-08T11:21:23.250Z",
+      "commit": 75,
+      "verse": "1 Kings 16:34",
+      "text": "[34] ¶ In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun."
     }
   ]
 }

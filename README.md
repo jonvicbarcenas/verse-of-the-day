@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 13:16**
+> **1 Kings 16:34**
 >
-> *"[16] Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"*
+> *"[34] ¶ In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun."*
 <!-- VERSE_END -->
 
 ---

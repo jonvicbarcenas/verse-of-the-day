@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Isaiah 41:28**
+> **Leviticus 9:15**
 >
-> *"[28] For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word."*
+> *"[15] ¶ And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 91,
+  "count": 92,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -520,6 +520,12 @@
       "commit": 91,
       "verse": "Isaiah 41:28",
       "text": "[28] For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word."
+    },
+    {
+      "date": "2026-01-09T06:35:37.451Z",
+      "commit": 92,
+      "verse": "Leviticus 9:15",
+      "text": "[15] ¶ And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first."
     }
   ]
 }

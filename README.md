@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **James 2:4**
+> **Nahum 2:5**
 >
-> *"[4] Are ye not then partial in yourselves, and are become judges of evil thoughts?"*
+> *"[5] He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."*
 <!-- VERSE_END -->
 
 ---

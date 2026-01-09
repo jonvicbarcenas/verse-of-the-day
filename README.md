@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **James 4:13**
+> **1 Timothy 6:5**
 >
-> *"[13] Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"*
+> *"[5] Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself."*
 <!-- VERSE_END -->
 
 ---

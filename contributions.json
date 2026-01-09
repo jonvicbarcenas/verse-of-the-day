@@ -1,5 +1,5 @@
 {
-  "count": 88,
+  "count": 89,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -502,6 +502,12 @@
       "commit": 88,
       "verse": "James 4:13",
       "text": "[13] Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+    },
+    {
+      "date": "2026-01-09T03:40:28.338Z",
+      "commit": 89,
+      "verse": "1 Timothy 6:5",
+      "text": "[5] Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself."
     }
   ]
 }

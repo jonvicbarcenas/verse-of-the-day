@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Mark 10:5**
+> **Song of Solomon 8:10**
 >
-> *"[5] And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."*
+> *"[10] I am a wall, and my breasts like towers: then was I in his eyes as one that found favour."*
 <!-- VERSE_END -->
 
 ---

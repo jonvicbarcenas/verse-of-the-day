@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Song of Solomon 5:12**
+> **James 4:13**
 >
-> *"[12] His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."*
+> *"[13] Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"*
 <!-- VERSE_END -->
 
 ---

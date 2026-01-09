@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Daniel 11:45**
+> **Micah 7:15**
 >
-> *"[45] And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him."*
+> *"[15] According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things."*
 <!-- VERSE_END -->
 
 ---

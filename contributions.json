@@ -1,5 +1,5 @@
 {
-  "count": 104,
+  "count": 105,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -598,6 +598,12 @@
       "commit": 104,
       "verse": "Philippians 3:3",
       "text": "[3] For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
+    },
+    {
+      "date": "2026-01-09T19:20:22.872Z",
+      "commit": 105,
+      "verse": "Malachi 4:1",
+      "text": "[1] For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch."
     }
   ]
 }

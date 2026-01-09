@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Samuel 24:13**
+> **Isaiah 58:12**
 >
-> *"[13] As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee."*
+> *"[12] And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in."*
 <!-- VERSE_END -->
 
 ---

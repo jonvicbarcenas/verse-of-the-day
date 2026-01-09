@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nahum 2:5**
+> **1 Samuel 24:13**
 >
-> *"[5] He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."*
+> *"[13] As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee."*
 <!-- VERSE_END -->
 
 ---

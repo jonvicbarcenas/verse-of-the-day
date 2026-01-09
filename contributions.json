@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 100,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -568,6 +568,12 @@
       "commit": 99,
       "verse": "Nahum 2:5",
       "text": "[5] He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."
+    },
+    {
+      "date": "2026-01-09T14:25:30.107Z",
+      "commit": 100,
+      "verse": "1 Samuel 24:13",
+      "text": "[13] As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee."
     }
   ]
 }

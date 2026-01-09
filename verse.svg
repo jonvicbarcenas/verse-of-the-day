@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Nahum 2:5</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Samuel 24:13</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[5] He shall recount his worthies: they shall stumble in their</tspan><tspan x="20" dy="22">walk; they shall make haste to the wall thereof, and the defence</tspan><tspan x="20" dy="22">shall be prepared.</tspan>
+    <tspan x="20" dy="0">[13] As saith the proverb of the ancients, Wickedness proceedeth</tspan><tspan x="20" dy="22">from the wicked: but mine hand shall not be upon thee.</tspan>
   </text>
 </svg>

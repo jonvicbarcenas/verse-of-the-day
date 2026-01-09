@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Timothy 2:24</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Acts 15:1</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[24] And the servant of the Lord must not strive; but be gentle</tspan><tspan x="20" dy="22">unto all men, apt to teach, patient,</tspan>
+    <tspan x="20" dy="0">[1] And certain men which came down from Judæa taught the</tspan><tspan x="20" dy="22">brethren, and said, Except ye be circumcised after the manner of</tspan><tspan x="20" dy="22">Moses, ye cannot be saved.</tspan>
   </text>
 </svg>

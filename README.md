@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Timothy 2:24**
+> **Acts 15:1**
 >
-> *"[24] And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"*
+> *"[1] And certain men which came down from Judæa taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved."*
 <!-- VERSE_END -->
 
 ---

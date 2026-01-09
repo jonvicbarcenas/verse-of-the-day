@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 90,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -508,6 +508,12 @@
       "commit": 89,
       "verse": "1 Timothy 6:5",
       "text": "[5] Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself."
+    },
+    {
+      "date": "2026-01-09T04:40:43.429Z",
+      "commit": 90,
+      "verse": "Isaiah 5:8",
+      "text": "[8] ¶ Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!"
     }
   ]
 }

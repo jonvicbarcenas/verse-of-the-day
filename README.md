@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Timothy 6:5**
+> **Isaiah 5:8**
 >
-> *"[5] Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself."*
+> *"[8] ¶ Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!"*
 <!-- VERSE_END -->
 
 ---

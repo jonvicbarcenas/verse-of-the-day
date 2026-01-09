@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Song of Solomon 8:10**
+> **Ecclesiastes 4:12**
 >
-> *"[10] I am a wall, and my breasts like towers: then was I in his eyes as one that found favour."*
+> *"[12] And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Amos 9:8**
+> **James 2:4**
 >
-> *"[8] Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD."*
+> *"[4] Are ye not then partial in yourselves, and are become judges of evil thoughts?"*
 <!-- VERSE_END -->
 
 ---

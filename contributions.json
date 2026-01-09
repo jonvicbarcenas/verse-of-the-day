@@ -1,5 +1,5 @@
 {
-  "count": 97,
+  "count": 98,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -556,6 +556,12 @@
       "commit": 97,
       "verse": "Amos 9:8",
       "text": "[8] Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD."
+    },
+    {
+      "date": "2026-01-09T12:47:01.877Z",
+      "commit": 98,
+      "verse": "James 2:4",
+      "text": "[4] Are ye not then partial in yourselves, and are become judges of evil thoughts?"
     }
   ]
 }

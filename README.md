@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Isaiah 5:8**
+> **Isaiah 41:28**
 >
-> *"[8] ¶ Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!"*
+> *"[28] For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word."*
 <!-- VERSE_END -->
 
 ---

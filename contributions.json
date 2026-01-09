@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 91,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -514,6 +514,12 @@
       "commit": 90,
       "verse": "Isaiah 5:8",
       "text": "[8] ¶ Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!"
+    },
+    {
+      "date": "2026-01-09T05:26:32.476Z",
+      "commit": 91,
+      "verse": "Isaiah 41:28",
+      "text": "[28] For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word."
     }
   ]
 }

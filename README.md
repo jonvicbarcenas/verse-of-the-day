@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Malachi 4:1**
+> **Nehemiah 5:19**
 >
-> *"[1] For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch."*
+> *"[19] Think upon me, my God, for good, according to all that I have done for this people."*
 <!-- VERSE_END -->
 
 ---

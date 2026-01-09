@@ -1,5 +1,5 @@
 {
-  "count": 106,
+  "count": 107,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -610,6 +610,12 @@
       "commit": 106,
       "verse": "Nehemiah 5:19",
       "text": "[19] Think upon me, my God, for good, according to all that I have done for this people."
+    },
+    {
+      "date": "2026-01-09T21:21:30.675Z",
+      "commit": 107,
+      "verse": "Mark 10:5",
+      "text": "[5] And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."
     }
   ]
 }

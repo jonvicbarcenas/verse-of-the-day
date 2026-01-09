@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nehemiah 5:19**
+> **Mark 10:5**
 >
-> *"[19] Think upon me, my God, for good, according to all that I have done for this people."*
+> *"[5] And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."*
 <!-- VERSE_END -->
 
 ---

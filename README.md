@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Micah 7:15**
+> **Amos 9:8**
 >
-> *"[15] According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things."*
+> *"[8] Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD."*
 <!-- VERSE_END -->
 
 ---

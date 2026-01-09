@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 9:15**
+> **2 Timothy 2:24**
 >
-> *"[15] ¶ And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first."*
+> *"[24] And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"*
 <!-- VERSE_END -->
 
 ---

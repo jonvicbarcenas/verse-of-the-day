@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 93,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -526,6 +526,12 @@
       "commit": 92,
       "verse": "Leviticus 9:15",
       "text": "[15] ¶ And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first."
+    },
+    {
+      "date": "2026-01-09T07:26:07.240Z",
+      "commit": 93,
+      "verse": "2 Timothy 2:24",
+      "text": "[24] And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"
     }
   ]
 }

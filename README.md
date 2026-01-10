@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Colossians 4:13**
+> **Lamentations 3:36**
 >
-> *"[13] For I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis."*
+> *"[36] To subvert a man in his cause, the Lord approveth not."*
 <!-- VERSE_END -->
 
 ---

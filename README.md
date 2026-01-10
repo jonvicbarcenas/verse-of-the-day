@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nahum 1:10**
+> **Ezra 6:4**
 >
-> *"[10] For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry."*
+> *"[4] With three rows of great stones, and a row of new timber: and let the expenses be given out of the king’s house:"*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 112,
+  "count": 113,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -646,6 +646,12 @@
       "commit": 112,
       "verse": "Nahum 1:10",
       "text": "[10] For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry."
+    },
+    {
+      "date": "2026-01-10T05:22:12.832Z",
+      "commit": 113,
+      "verse": "Ezra 6:4",
+      "text": "[4] With three rows of great stones, and a row of new timber: and let the expenses be given out of the king’s house:"
     }
   ]
 }

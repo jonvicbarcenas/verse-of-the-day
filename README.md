@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ruth 1:2**
+> **Nahum 1:10**
 >
-> *"[2] And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there."*
+> *"[10] For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry."*
 <!-- VERSE_END -->
 
 ---

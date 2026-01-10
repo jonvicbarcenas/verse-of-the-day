@@ -1,5 +1,5 @@
 {
-  "count": 111,
+  "count": 112,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -640,6 +640,12 @@
       "commit": 111,
       "verse": "Ruth 1:2",
       "text": "[2] And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there."
+    },
+    {
+      "date": "2026-01-10T04:34:22.340Z",
+      "commit": 112,
+      "verse": "Nahum 1:10",
+      "text": "[10] For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry."
     }
   ]
 }

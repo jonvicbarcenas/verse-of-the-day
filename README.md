@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Proverbs 9:10**
+> **Job 36:1**
 >
-> *"[10] The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding."*
+> *"[1] Elihu also proceeded, and said,"*
 <!-- VERSE_END -->
 
 ---

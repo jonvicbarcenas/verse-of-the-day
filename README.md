@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Esther 5:9**
+> **Joshua 9:15**
 >
-> *"[9] ¶ Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."*
+> *"[15] And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them."*
 <!-- VERSE_END -->
 
 ---

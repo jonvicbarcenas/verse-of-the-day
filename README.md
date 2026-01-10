@@ -7,9 +7,10 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Job 36:1**
+> **Psalms 3:1**
 >
-> *"[1] Elihu also proceeded, and said,"*
+> *"A Psalm of David, when he fled from Absalom his son.
+   [1] LORD, how are they increased that trouble me! many are they that rise up against me."*
 <!-- VERSE_END -->
 
 ---

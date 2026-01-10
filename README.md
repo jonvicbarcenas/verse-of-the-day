@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Jeremiah 18:8**
+> **Mark 1:11**
 >
-> *"[8] If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them."*
+> *"[11] And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased."*
 <!-- VERSE_END -->
 
 ---

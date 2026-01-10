@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Zechariah 2:10**
+> **Proverbs 9:10**
 >
-> *"[10] ¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD."*
+> *"[10] The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding."*
 <!-- VERSE_END -->
 
 ---

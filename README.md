@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Samuel 27:10**
+> **Zechariah 2:10**
 >
-> *"[10] And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites."*
+> *"[10] ¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD."*
 <!-- VERSE_END -->
 
 ---

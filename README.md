@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Lamentations 3:36**
+> **Esther 5:9**
 >
-> *"[36] To subvert a man in his cause, the Lord approveth not."*
+> *"[9] ¶ Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."*
 <!-- VERSE_END -->
 
 ---

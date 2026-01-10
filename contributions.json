@@ -1,5 +1,5 @@
 {
-  "count": 129,
+  "count": 130,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -748,6 +748,12 @@
       "commit": 129,
       "verse": "Lamentations 3:36",
       "text": "[36] To subvert a man in his cause, the Lord approveth not."
+    },
+    {
+      "date": "2026-01-10T22:20:11.100Z",
+      "commit": 130,
+      "verse": "Esther 5:9",
+      "text": "[9] ¶ Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."
     }
   ]
 }

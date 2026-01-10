@@ -7,10 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Psalms 3:1**
+> **Colossians 4:13**
 >
-> *"A Psalm of David, when he fled from Absalom his son.
-   [1] LORD, how are they increased that trouble me! many are they that rise up against me."*
+> *"[13] For I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis."*
 <!-- VERSE_END -->
 
 ---

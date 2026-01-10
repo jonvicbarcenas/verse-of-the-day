@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Psalms 3:1</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Colossians 4:13</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">A Psalm of David, when he fled from Absalom his son. [1] LORD,</tspan><tspan x="20" dy="22">how are they increased that trouble me! many are they that rise</tspan><tspan x="20" dy="22">up against me.</tspan>
+    <tspan x="20" dy="0">[13] For I bear him record, that he hath a great zeal for you,</tspan><tspan x="20" dy="22">and them that are in Laodicea, and them in Hierapolis.</tspan>
   </text>
 </svg>

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 John 1:13**
+> **Titus 1:6**
 >
-> *"[13] The children of thy elect sister greet thee. Amen."*
+> *"[6] If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Philemon 1:8**
+> **1 Peter 4:19**
 >
-> *"[8] Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"*
+> *"[19] Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Philemon 1:8</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Peter 4:19</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[8] Wherefore, though I might be much bold in Christ to enjoin</tspan><tspan x="20" dy="22">thee that which is convenient,</tspan>
+    <tspan x="20" dy="0">[19] Wherefore let them that suffer according to the will of God</tspan><tspan x="20" dy="22">commit the keeping of their souls to him in well doing, as unto a</tspan><tspan x="20" dy="22">faithful Creator.</tspan>
   </text>
 </svg>

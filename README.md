@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Titus 1:6**
+> **Philemon 1:8**
 >
-> *"[6] If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly."*
+> *"[8] Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"*
 <!-- VERSE_END -->
 
 ---

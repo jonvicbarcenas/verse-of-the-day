@@ -1,5 +1,5 @@
 {
-  "count": 120,
+  "count": 121,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -694,6 +694,12 @@
       "commit": 120,
       "verse": "Jeremiah 24:6",
       "text": "[6] For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up."
+    },
+    {
+      "date": "2026-01-10T13:29:28.223Z",
+      "commit": 121,
+      "verse": "Ezekiel 44:10",
+      "text": "[10] And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity."
     }
   ]
 }

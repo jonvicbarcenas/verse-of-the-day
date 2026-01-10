@@ -1,5 +1,5 @@
 {
-  "count": 113,
+  "count": 114,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -652,6 +652,12 @@
       "commit": 113,
       "verse": "Ezra 6:4",
       "text": "[4] With three rows of great stones, and a row of new timber: and let the expenses be given out of the king’s house:"
+    },
+    {
+      "date": "2026-01-10T06:31:41.518Z",
+      "commit": 114,
+      "verse": "Jeremiah 18:8",
+      "text": "[8] If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ezra 6:4**
+> **Jeremiah 18:8**
 >
-> *"[4] With three rows of great stones, and a row of new timber: and let the expenses be given out of the king’s house:"*
+> *"[8] If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them."*
 <!-- VERSE_END -->
 
 ---

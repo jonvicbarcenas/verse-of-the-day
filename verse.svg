@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ecclesiastes 4:12</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Deuteronomy 7:26</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[12] And if one prevail against him, two shall withstand him; and</tspan><tspan x="20" dy="22">a threefold cord is not quickly broken.</tspan>
+    <tspan x="20" dy="0">[26] Neither shalt thou bring an abomination into thine house,</tspan><tspan x="20" dy="22">lest thou be a cursed thing like it: but thou shalt utterly</tspan><tspan x="20" dy="22">detest it, and thou shalt utterly abhor it; for it is a cursed</tspan><tspan x="20" dy="22">thing.</tspan>
   </text>
 </svg>

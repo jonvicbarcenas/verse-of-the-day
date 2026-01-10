@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ecclesiastes 4:12**
+> **Deuteronomy 7:26**
 >
-> *"[12] And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."*
+> *"[26] Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 109,
+  "count": 110,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -628,6 +628,12 @@
       "commit": 109,
       "verse": "Ecclesiastes 4:12",
       "text": "[12] And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."
+    },
+    {
+      "date": "2026-01-10T01:45:01.874Z",
+      "commit": 110,
+      "verse": "Deuteronomy 7:26",
+      "text": "[26] Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "count": 119,
+  "count": 120,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -688,6 +688,12 @@
       "commit": 119,
       "verse": "1 Peter 4:19",
       "text": "[19] Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator."
+    },
+    {
+      "date": "2026-01-10T12:41:13.860Z",
+      "commit": 120,
+      "verse": "Jeremiah 24:6",
+      "text": "[6] For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up."
     }
   ]
 }

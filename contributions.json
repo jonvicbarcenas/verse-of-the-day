@@ -1,5 +1,5 @@
 {
-  "count": 110,
+  "count": 111,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -634,6 +634,12 @@
       "commit": 110,
       "verse": "Deuteronomy 7:26",
       "text": "[26] Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing."
+    },
+    {
+      "date": "2026-01-10T03:25:03.086Z",
+      "commit": 111,
+      "verse": "Ruth 1:2",
+      "text": "[2] And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there."
     }
   ]
 }

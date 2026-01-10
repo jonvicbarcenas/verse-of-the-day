@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Mark 1:11**
+> **2 John 1:13**
 >
-> *"[11] And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased."*
+> *"[13] The children of thy elect sister greet thee. Amen."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Hosea 11:9**
+> **Isaiah 44:18**
 >
-> *"[9] I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city."*
+> *"[18] They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand."*
 <!-- VERSE_END -->
 
 ---

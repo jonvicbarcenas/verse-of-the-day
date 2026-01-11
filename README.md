@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **James 2:7**
+> **2 Kings 4:15**
 >
-> *"[7] Do not they blaspheme that worthy name by the which ye are called?"*
+> *"[15] And he said, Call her. And when he had called her, she stood in the door."*
 <!-- VERSE_END -->
 
 ---

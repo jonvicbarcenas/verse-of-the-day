@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Peter 4:7**
+> **Matthew 19:15**
 >
-> *"[7] But the end of all things is at hand: be ye therefore sober, and watch unto prayer."*
+> *"[15] And he laid his hands on them, and departed thence."*
 <!-- VERSE_END -->
 
 ---

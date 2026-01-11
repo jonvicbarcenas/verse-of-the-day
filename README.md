@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Daniel 12:13**
+> **Exodus 20:14**
 >
-> *"[13] But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."*
+> *"[14] Thou shalt not commit adultery."*
 <!-- VERSE_END -->
 
 ---

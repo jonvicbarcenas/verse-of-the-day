@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Daniel 12:13</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Exodus 20:14</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[13] But go thou thy way till the end be: for thou shalt rest,</tspan><tspan x="20" dy="22">and stand in thy lot at the end of the days.</tspan>
+    <tspan x="20" dy="0">[14] Thou shalt not commit adultery.</tspan>
   </text>
 </svg>

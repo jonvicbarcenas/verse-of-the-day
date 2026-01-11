@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Joel 3:20**
+> **Numbers 35:24**
 >
-> *"[20] But Judah shall dwell for ever, and Jerusalem from generation to generation."*
+> *"[24] Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:"*
 <!-- VERSE_END -->
 
 ---

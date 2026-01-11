@@ -1,5 +1,5 @@
 {
-  "count": 138,
+  "count": 139,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -802,6 +802,12 @@
       "commit": 138,
       "verse": "Nahum 1:7",
       "text": "[7] The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+    },
+    {
+      "date": "2026-01-11T09:21:51.826Z",
+      "commit": 139,
+      "verse": "Psalms 110:1",
+      "text": "A Psalm of David.\n   [1] The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
     }
   ]
 }

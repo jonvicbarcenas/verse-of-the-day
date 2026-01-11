@@ -7,9 +7,10 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nahum 1:7**
+> **Psalms 110:1**
 >
-> *"[7] The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."*
+> *"A Psalm of David.
+   [1] The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Jude 1:25**
+> **Exodus 22:3**
 >
-> *"[25] To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."*
+> *"[3] If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."*
 <!-- VERSE_END -->
 
 ---

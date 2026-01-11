@@ -1,5 +1,5 @@
 {
-  "count": 140,
+  "count": 141,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -814,6 +814,12 @@
       "commit": 140,
       "verse": "Jude 1:25",
       "text": "[25] To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."
+    },
+    {
+      "date": "2026-01-11T11:18:12.263Z",
+      "commit": 141,
+      "verse": "Exodus 22:3",
+      "text": "[3] If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."
     }
   ]
 }

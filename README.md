@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Exodus 20:14**
+> **1 Thessalonians 2:6**
 >
-> *"[14] Thou shalt not commit adultery."*
+> *"[6] Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ."*
 <!-- VERSE_END -->
 
 ---

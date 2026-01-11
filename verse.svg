@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Psalms 110:1</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Jude 1:25</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">A Psalm of David. [1] The LORD said unto my Lord, Sit thou at my</tspan><tspan x="20" dy="22">right hand, until I make thine enemies thy footstool.</tspan>
+    <tspan x="20" dy="0">[25] To the only wise God our Saviour, be glory and majesty,</tspan><tspan x="20" dy="22">dominion and power, both now and ever. Amen.</tspan>
   </text>
 </svg>

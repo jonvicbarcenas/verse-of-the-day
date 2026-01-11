@@ -7,10 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Psalms 110:1**
+> **Jude 1:25**
 >
-> *"A Psalm of David.
-   [1] The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."*
+> *"[25] To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."*
 <!-- VERSE_END -->
 
 ---

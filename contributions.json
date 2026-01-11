@@ -1,5 +1,5 @@
 {
-  "count": 139,
+  "count": 140,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -808,6 +808,12 @@
       "commit": 139,
       "verse": "Psalms 110:1",
       "text": "A Psalm of David.\n   [1] The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+    },
+    {
+      "date": "2026-01-11T10:22:19.774Z",
+      "commit": 140,
+      "verse": "Jude 1:25",
+      "text": "[25] To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."
     }
   ]
 }

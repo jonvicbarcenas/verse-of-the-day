@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Numbers 35:24**
+> **Daniel 12:13**
 >
-> *"[24] Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:"*
+> *"[13] But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."*
 <!-- VERSE_END -->
 
 ---

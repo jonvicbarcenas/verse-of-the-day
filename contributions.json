@@ -1,5 +1,5 @@
 {
-  "count": 150,
+  "count": 151,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -874,6 +874,12 @@
       "commit": 150,
       "verse": "Numbers 35:24",
       "text": "[24] Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:"
+    },
+    {
+      "date": "2026-01-11T21:19:12.628Z",
+      "commit": 151,
+      "verse": "Daniel 12:13",
+      "text": "[13] But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."
     }
   ]
 }

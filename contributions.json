@@ -1,5 +1,5 @@
 {
-  "count": 147,
+  "count": 148,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -856,6 +856,12 @@
       "commit": 147,
       "verse": "Isaiah 44:18",
       "text": "[18] They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand."
+    },
+    {
+      "date": "2026-01-11T18:30:15.827Z",
+      "commit": 148,
+      "verse": "Acts 10:6",
+      "text": "[6] He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."
     }
   ]
 }

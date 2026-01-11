@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Isaiah 44:18**
+> **Acts 10:6**
 >
-> *"[18] They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand."*
+> *"[6] He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."*
 <!-- VERSE_END -->
 
 ---

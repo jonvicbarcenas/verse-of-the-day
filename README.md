@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **John 20:14**
+> **Titus 1:3**
 >
-> *"[14] And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."*
+> *"[3] But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"*
 <!-- VERSE_END -->
 
 ---

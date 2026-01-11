@@ -1,5 +1,5 @@
 {
-  "count": 131,
+  "count": 132,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -760,6 +760,12 @@
       "commit": 131,
       "verse": "Joshua 9:15",
       "text": "[15] And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them."
+    },
+    {
+      "date": "2026-01-11T01:56:46.141Z",
+      "commit": 132,
+      "verse": "2 Samuel 16:20",
+      "text": "[20] ¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do."
     }
   ]
 }

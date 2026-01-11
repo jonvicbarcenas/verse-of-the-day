@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Joshua 9:15**
+> **2 Samuel 16:20**
 >
-> *"[15] And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them."*
+> *"[20] ¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do."*
 <!-- VERSE_END -->
 
 ---

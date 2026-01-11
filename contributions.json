@@ -1,5 +1,5 @@
 {
-  "count": 148,
+  "count": 149,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -862,6 +862,12 @@
       "commit": 148,
       "verse": "Acts 10:6",
       "text": "[6] He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."
+    },
+    {
+      "date": "2026-01-11T19:16:40.517Z",
+      "commit": 149,
+      "verse": "Joel 3:20",
+      "text": "[20] But Judah shall dwell for ever, and Jerusalem from generation to generation."
     }
   ]
 }

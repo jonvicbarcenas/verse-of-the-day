@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Acts 10:6**
+> **Joel 3:20**
 >
-> *"[6] He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."*
+> *"[20] But Judah shall dwell for ever, and Jerusalem from generation to generation."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Matthew 19:15</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Hosea 11:9</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[15] And he laid his hands on them, and departed thence.</tspan>
+    <tspan x="20" dy="0">[9] I will not execute the fierceness of mine anger, I will not</tspan><tspan x="20" dy="22">return to destroy Ephraim: for I am God, and not man; the Holy</tspan><tspan x="20" dy="22">One in the midst of thee: and I will not enter into the city.</tspan>
   </text>
 </svg>

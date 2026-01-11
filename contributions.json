@@ -1,5 +1,5 @@
 {
-  "count": 145,
+  "count": 146,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -844,6 +844,12 @@
       "commit": 145,
       "verse": "Matthew 19:15",
       "text": "[15] And he laid his hands on them, and departed thence."
+    },
+    {
+      "date": "2026-01-11T16:25:52.288Z",
+      "commit": 146,
+      "verse": "Hosea 11:9",
+      "text": "[9] I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city."
     }
   ]
 }

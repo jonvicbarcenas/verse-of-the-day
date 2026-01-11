@@ -1,5 +1,5 @@
 {
-  "count": 141,
+  "count": 142,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -820,6 +820,12 @@
       "commit": 141,
       "verse": "Exodus 22:3",
       "text": "[3] If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."
+    },
+    {
+      "date": "2026-01-11T12:42:03.287Z",
+      "commit": 142,
+      "verse": "Haggai 2:19",
+      "text": "[19] Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
     }
   ]
 }

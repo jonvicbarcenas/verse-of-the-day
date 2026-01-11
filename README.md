@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Titus 1:3**
+> **Nahum 1:7**
 >
-> *"[3] But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"*
+> *"[7] The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."*
 <!-- VERSE_END -->
 
 ---

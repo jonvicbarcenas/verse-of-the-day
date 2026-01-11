@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ecclesiastes 2:23**
+> **1 Peter 4:7**
 >
-> *"[23] For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity."*
+> *"[7] But the end of all things is at hand: be ye therefore sober, and watch unto prayer."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ecclesiastes 2:23</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Peter 4:7</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[23] For all his days are sorrows, and his travail grief; yea,</tspan><tspan x="20" dy="22">his heart taketh not rest in the night. This is also vanity.</tspan>
+    <tspan x="20" dy="0">[7] But the end of all things is at hand: be ye therefore sober,</tspan><tspan x="20" dy="22">and watch unto prayer.</tspan>
   </text>
 </svg>

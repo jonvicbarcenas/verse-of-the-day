@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Isaiah 58:4**
+> **John 20:14**
 >
-> *"[4] Behold, ye fast for strife and debate, and to smite with the fist of wickedness: ye shall not fast as ye do this day, to make your voice to be heard on high."*
+> *"[14] And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."*
 <!-- VERSE_END -->
 
 ---

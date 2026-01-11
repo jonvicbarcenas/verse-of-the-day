@@ -1,5 +1,5 @@
 {
-  "count": 132,
+  "count": 133,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -766,6 +766,12 @@
       "commit": 132,
       "verse": "2 Samuel 16:20",
       "text": "[20] ¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do."
+    },
+    {
+      "date": "2026-01-11T03:53:30.108Z",
+      "commit": 133,
+      "verse": "James 2:7",
+      "text": "[7] Do not they blaspheme that worthy name by the which ye are called?"
     }
   ]
 }

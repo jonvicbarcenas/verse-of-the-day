@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Samuel 16:20**
+> **James 2:7**
 >
-> *"[20] ¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do."*
+> *"[7] Do not they blaspheme that worthy name by the which ye are called?"*
 <!-- VERSE_END -->
 
 ---

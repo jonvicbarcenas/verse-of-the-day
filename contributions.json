@@ -1,5 +1,5 @@
 {
-  "count": 172,
+  "count": 173,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1006,6 +1006,12 @@
       "commit": 172,
       "verse": "Amos 6:14",
       "text": "[14] But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness."
+    },
+    {
+      "date": "2026-01-12T21:21:47.712Z",
+      "commit": 173,
+      "verse": "Joel 2:14",
+      "text": "[14] Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?"
     }
   ]
 }

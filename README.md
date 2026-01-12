@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Amos 6:14**
+> **Joel 2:14**
 >
-> *"[14] But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness."*
+> *"[14] Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?"*
 <!-- VERSE_END -->
 
 ---

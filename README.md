@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Thessalonians 3:5**
+> **Ruth 3:10**
 >
-> *"[5] And the Lord direct your hearts into the love of God, and into the patient waiting for Christ."*
+> *"[10] And he said, Blessed be thou of the LORD, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 174,
+  "count": 175,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1018,6 +1018,12 @@
       "commit": 174,
       "verse": "2 Thessalonians 3:5",
       "text": "[5] And the Lord direct your hearts into the love of God, and into the patient waiting for Christ."
+    },
+    {
+      "date": "2026-01-12T23:17:42.963Z",
+      "commit": 175,
+      "verse": "Ruth 3:10",
+      "text": "[10] And he said, Blessed be thou of the LORD, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."
     }
   ]
 }

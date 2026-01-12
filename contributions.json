@@ -1,5 +1,5 @@
 {
-  "count": 154,
+  "count": 155,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -898,6 +898,12 @@
       "commit": 154,
       "verse": "Jeremiah 12:15",
       "text": "[15] And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land."
+    },
+    {
+      "date": "2026-01-12T03:50:25.602Z",
+      "commit": 155,
+      "verse": "Leviticus 25:8",
+      "text": "[8] ¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years."
     }
   ]
 }

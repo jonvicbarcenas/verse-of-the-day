@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ezra 5:13</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Romans 9:4</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[13] But in the first year of Cyrus the king of Babylon the same</tspan><tspan x="20" dy="22">king Cyrus made a decree to build this house of God.</tspan>
+    <tspan x="20" dy="0">[4] Who are Israelites; to whom pertaineth the adoption, and the</tspan><tspan x="20" dy="22">glory, and the covenants, and the giving of the law, and the</tspan><tspan x="20" dy="22">service of God, and the promises;</tspan>
   </text>
 </svg>

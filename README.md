@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ezra 5:13**
+> **Romans 9:4**
 >
-> *"[13] But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."*
+> *"[4] Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"*
 <!-- VERSE_END -->
 
 ---

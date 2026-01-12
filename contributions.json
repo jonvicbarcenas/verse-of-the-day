@@ -1,5 +1,5 @@
 {
-  "count": 159,
+  "count": 160,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -928,6 +928,12 @@
       "commit": 159,
       "verse": "Ezra 5:13",
       "text": "[13] But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."
+    },
+    {
+      "date": "2026-01-12T08:34:03.544Z",
+      "commit": 160,
+      "verse": "Romans 9:4",
+      "text": "[4] Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"
     }
   ]
 }

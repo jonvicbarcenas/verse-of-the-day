@@ -1,5 +1,5 @@
 {
-  "count": 156,
+  "count": 157,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -910,6 +910,12 @@
       "commit": 156,
       "verse": "Exodus 21:16",
       "text": "[16] ¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."
+    },
+    {
+      "date": "2026-01-12T05:30:08.609Z",
+      "commit": 157,
+      "verse": "Amos 8:1",
+      "text": "[1] Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit."
     }
   ]
 }

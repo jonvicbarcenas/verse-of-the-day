@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Exodus 21:16**
+> **Amos 8:1**
 >
-> *"[16] ¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."*
+> *"[1] Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Amos 8:1**
+> **Judges 14:17**
 >
-> *"[1] Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit."*
+> *"[17] And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people."*
 <!-- VERSE_END -->
 
 ---

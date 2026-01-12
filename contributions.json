@@ -1,5 +1,5 @@
 {
-  "count": 157,
+  "count": 158,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -916,6 +916,12 @@
       "commit": 157,
       "verse": "Amos 8:1",
       "text": "[1] Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit."
+    },
+    {
+      "date": "2026-01-12T06:38:34.065Z",
+      "commit": 158,
+      "verse": "Judges 14:17",
+      "text": "[17] And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people."
     }
   ]
 }

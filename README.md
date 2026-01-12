@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Micah 1:8**
+> **2 Thessalonians 2:17**
 >
-> *"[8] Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."*
+> *"[17] Comfort your hearts, and stablish you in every good word and work."*
 <!-- VERSE_END -->
 
 ---

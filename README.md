@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Judges 14:17**
+> **Ezra 5:13**
 >
-> *"[17] And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people."*
+> *"[13] But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."*
 <!-- VERSE_END -->
 
 ---

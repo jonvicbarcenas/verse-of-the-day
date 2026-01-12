@@ -1,5 +1,5 @@
 {
-  "count": 158,
+  "count": 159,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -922,6 +922,12 @@
       "commit": 158,
       "verse": "Judges 14:17",
       "text": "[17] And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people."
+    },
+    {
+      "date": "2026-01-12T07:27:41.812Z",
+      "commit": 159,
+      "verse": "Ezra 5:13",
+      "text": "[13] But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."
     }
   ]
 }

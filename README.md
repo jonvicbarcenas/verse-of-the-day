@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 John 3:18**
+> **Zephaniah 2:5**
 >
-> *"[18] My little children, let us not love in word, neither in tongue; but in deed and in truth."*
+> *"[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."*
 <!-- VERSE_END -->
 
 ---

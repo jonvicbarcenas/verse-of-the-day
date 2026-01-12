@@ -1,5 +1,5 @@
 {
-  "count": 165,
+  "count": 166,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -964,6 +964,12 @@
       "commit": 165,
       "verse": "1 John 3:18",
       "text": "[18] My little children, let us not love in word, neither in tongue; but in deed and in truth."
+    },
+    {
+      "date": "2026-01-12T14:26:43.536Z",
+      "commit": 166,
+      "verse": "Zephaniah 2:5",
+      "text": "[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
     }
   ]
 }

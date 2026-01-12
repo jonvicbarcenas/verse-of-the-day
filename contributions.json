@@ -1,5 +1,5 @@
 {
-  "count": 171,
+  "count": 172,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1000,6 +1000,12 @@
       "commit": 171,
       "verse": "Song of Solomon 3:3",
       "text": "[3] The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?"
+    },
+    {
+      "date": "2026-01-12T20:26:39.793Z",
+      "commit": 172,
+      "verse": "Amos 6:14",
+      "text": "[14] But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness."
     }
   ]
 }

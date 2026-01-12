@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Song of Solomon 3:3**
+> **Amos 6:14**
 >
-> *"[3] The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?"*
+> *"[14] But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness."*
 <!-- VERSE_END -->
 
 ---

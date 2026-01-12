@@ -1,5 +1,5 @@
 {
-  "count": 167,
+  "count": 168,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -976,6 +976,12 @@
       "commit": 167,
       "verse": "Haggai 2:16",
       "text": "[16] Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty."
+    },
+    {
+      "date": "2026-01-12T16:28:35.559Z",
+      "commit": 168,
+      "verse": "Micah 1:8",
+      "text": "[8] Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."
     }
   ]
 }

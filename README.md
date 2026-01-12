@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Haggai 2:16**
+> **Micah 1:8**
 >
-> *"[16] Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty."*
+> *"[8] Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."*
 <!-- VERSE_END -->
 
 ---

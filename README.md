@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Joel 2:14**
+> **2 Thessalonians 3:5**
 >
-> *"[14] Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?"*
+> *"[5] And the Lord direct your hearts into the love of God, and into the patient waiting for Christ."*
 <!-- VERSE_END -->
 
 ---

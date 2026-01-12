@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Thessalonians 2:6**
+> **Jeremiah 12:15**
 >
-> *"[6] Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ."*
+> *"[15] And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land."*
 <!-- VERSE_END -->
 
 ---

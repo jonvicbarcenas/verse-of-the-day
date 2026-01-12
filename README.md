@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 25:8**
+> **Exodus 21:16**
 >
-> *"[8] ¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years."*
+> *"[16] ¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."*
 <!-- VERSE_END -->
 
 ---

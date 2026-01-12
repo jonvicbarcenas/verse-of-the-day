@@ -1,5 +1,5 @@
 {
-  "count": 155,
+  "count": 156,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -904,6 +904,12 @@
       "commit": 155,
       "verse": "Leviticus 25:8",
       "text": "[8] ¶ And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years."
+    },
+    {
+      "date": "2026-01-12T04:51:28.711Z",
+      "commit": 156,
+      "verse": "Exodus 21:16",
+      "text": "[16] ¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."
     }
   ]
 }

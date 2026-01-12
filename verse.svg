@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Leviticus 25:8</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Exodus 21:16</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[8] ¶ And thou shalt number seven sabbaths of years unto thee,</tspan><tspan x="20" dy="22">seven times seven years; and the space of the seven sabbaths of</tspan><tspan x="20" dy="22">years shall be unto thee forty and nine years.</tspan>
+    <tspan x="20" dy="0">[16] ¶ And he that stealeth a man, and selleth him, or if he be</tspan><tspan x="20" dy="22">found in his hand, he shall surely be put to death.</tspan>
   </text>
 </svg>

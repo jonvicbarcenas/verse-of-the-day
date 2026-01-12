@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Job 34:32**
+> **1 John 3:18**
 >
-> *"[32] That which I see not teach thou me: if I have done iniquity, I will do no more."*
+> *"[18] My little children, let us not love in word, neither in tongue; but in deed and in truth."*
 <!-- VERSE_END -->
 
 ---

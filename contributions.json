@@ -1,5 +1,5 @@
 {
-  "count": 160,
+  "count": 161,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -934,6 +934,12 @@
       "commit": 160,
       "verse": "Romans 9:4",
       "text": "[4] Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"
+    },
+    {
+      "date": "2026-01-12T09:33:12.002Z",
+      "commit": 161,
+      "verse": "Micah 6:16",
+      "text": "[16] ¶ For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people."
     }
   ]
 }

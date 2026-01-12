@@ -1,5 +1,5 @@
 {
-  "count": 166,
+  "count": 167,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -970,6 +970,12 @@
       "commit": 166,
       "verse": "Zephaniah 2:5",
       "text": "[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
+    },
+    {
+      "date": "2026-01-12T15:27:09.568Z",
+      "commit": 167,
+      "verse": "Haggai 2:16",
+      "text": "[16] Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty."
     }
   ]
 }

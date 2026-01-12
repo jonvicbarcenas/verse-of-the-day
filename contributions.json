@@ -1,5 +1,5 @@
 {
-  "count": 161,
+  "count": 162,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -940,6 +940,12 @@
       "commit": 161,
       "verse": "Micah 6:16",
       "text": "[16] ¶ For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people."
+    },
+    {
+      "date": "2026-01-12T10:26:52.054Z",
+      "commit": 162,
+      "verse": "Joshua 17:6",
+      "text": "[6] Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead."
     }
   ]
 }

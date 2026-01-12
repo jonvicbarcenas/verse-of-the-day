@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Philippians 4:8**
+> **Song of Solomon 3:3**
 >
-> *"[8] Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."*
+> *"[3] The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?"*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Daniel 3:6**
+> **Job 34:32**
 >
-> *"[6] And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace."*
+> *"[32] That which I see not teach thou me: if I have done iniquity, I will do no more."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Philemon 1:9**
+> **1 Timothy 1:4**
 >
-> *"[9] Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."*
+> *"[4] Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do."*
 <!-- VERSE_END -->
 
 ---

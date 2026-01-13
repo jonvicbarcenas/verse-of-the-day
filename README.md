@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Philemon 1:10**
+> **1 Kings 14:29**
 >
-> *"[10] I beseech thee for my son Onesimus, whom I have begotten in my bonds:"*
+> *"[29] ¶ Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"*
 <!-- VERSE_END -->
 
 ---

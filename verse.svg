@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Philemon 1:10</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Kings 14:29</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[10] I beseech thee for my son Onesimus, whom I have begotten in</tspan><tspan x="20" dy="22">my bonds:</tspan>
+    <tspan x="20" dy="0">[29] ¶ Now the rest of the acts of Rehoboam, and all that he did,</tspan><tspan x="20" dy="22">are they not written in the book of the chronicles of the kings</tspan><tspan x="20" dy="22">of Judah?</tspan>
   </text>
 </svg>

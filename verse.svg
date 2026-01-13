@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Acts 13:32</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Jeremiah 31:33</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[32] And we declare unto you glad tidings, how that the promise</tspan><tspan x="20" dy="22">which was made unto the fathers,</tspan>
+    <tspan x="20" dy="0">[33] But this shall be the covenant that I will make with the</tspan><tspan x="20" dy="22">house of Israel; After those days, saith the LORD, I will put my</tspan><tspan x="20" dy="22">law in their inward parts, and write it in their hearts; and will</tspan><tspan x="20" dy="22">be their God, and they shall be my people.</tspan>
   </text>
 </svg>

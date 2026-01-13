@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **James 5:20**
+> **Hosea 1:10**
 >
-> *"[20] Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."*
+> *"[10] ¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God."*
 <!-- VERSE_END -->
 
 ---

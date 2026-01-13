@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Samuel 14:39**
+> **2 Thessalonians 1:3**
 >
-> *"[39] For, as the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But there was not a man among all the people that answered him."*
+> *"[3] We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"*
 <!-- VERSE_END -->
 
 ---

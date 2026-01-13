@@ -1,5 +1,5 @@
 {
-  "count": 192,
+  "count": 193,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1126,6 +1126,12 @@
       "commit": 192,
       "verse": "2 Chronicles 18:27",
       "text": "[27] And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people."
+    },
+    {
+      "date": "2026-01-13T19:20:37.092Z",
+      "commit": 193,
+      "verse": "Malachi 4:2",
+      "text": "[2] ¶ But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
     }
   ]
 }

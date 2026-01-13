@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Chronicles 18:27**
+> **Malachi 4:2**
 >
-> *"[27] And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people."*
+> *"[2] ¶ But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."*
 <!-- VERSE_END -->
 
 ---

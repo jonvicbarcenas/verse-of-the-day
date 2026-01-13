@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 John 1:9**
+> **2 Chronicles 10:5**
 >
-> *"[9] Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."*
+> *"[5] And he said unto them, Come again unto me after three days. And the people departed."*
 <!-- VERSE_END -->
 
 ---

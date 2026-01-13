@@ -1,5 +1,5 @@
 {
-  "count": 195,
+  "count": 196,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1144,6 +1144,12 @@
       "commit": 195,
       "verse": "2 John 1:9",
       "text": "[9] Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."
+    },
+    {
+      "date": "2026-01-13T22:22:53.647Z",
+      "commit": 196,
+      "verse": "2 Chronicles 10:5",
+      "text": "[5] And he said unto them, Come again unto me after three days. And the people departed."
     }
   ]
 }

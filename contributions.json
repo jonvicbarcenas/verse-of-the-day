@@ -1,5 +1,5 @@
 {
-  "count": 181,
+  "count": 182,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1060,6 +1060,12 @@
       "commit": 181,
       "verse": "Romans 8:29",
       "text": "[29] For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."
+    },
+    {
+      "date": "2026-01-13T08:32:10.031Z",
+      "commit": 182,
+      "verse": "1 John 1:6",
+      "text": "[6] If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:"
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Romans 8:29**
+> **1 John 1:6**
 >
-> *"[29] For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."*
+> *"[6] If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:"*
 <!-- VERSE_END -->
 
 ---

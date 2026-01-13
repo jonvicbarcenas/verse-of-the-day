@@ -1,5 +1,5 @@
 {
-  "count": 180,
+  "count": 181,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1054,6 +1054,12 @@
       "commit": 180,
       "verse": "Hosea 1:10",
       "text": "[10] ¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God."
+    },
+    {
+      "date": "2026-01-13T07:25:33.700Z",
+      "commit": 181,
+      "verse": "Romans 8:29",
+      "text": "[29] For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."
     }
   ]
 }

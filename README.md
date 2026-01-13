@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Thessalonians 1:3**
+> **2 Chronicles 18:27**
 >
-> *"[3] We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"*
+> *"[27] And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people."*
 <!-- VERSE_END -->
 
 ---

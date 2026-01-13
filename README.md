@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nahum 2:3**
+> **Acts 13:32**
 >
-> *"[3] The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."*
+> *"[32] And we declare unto you glad tidings, how that the promise which was made unto the fathers,"*
 <!-- VERSE_END -->
 
 ---

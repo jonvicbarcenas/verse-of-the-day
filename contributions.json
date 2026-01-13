@@ -1,5 +1,5 @@
 {
-  "count": 188,
+  "count": 189,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1102,6 +1102,12 @@
       "commit": 188,
       "verse": "1 Kings 14:29",
       "text": "[29] ¶ Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
+    },
+    {
+      "date": "2026-01-13T15:26:55.270Z",
+      "commit": 189,
+      "verse": "2 Chronicles 35:8",
+      "text": "[8] And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen."
     }
   ]
 }

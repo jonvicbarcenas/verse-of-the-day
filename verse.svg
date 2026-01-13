@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Kings 14:29</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Chronicles 35:8</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[29] ¶ Now the rest of the acts of Rehoboam, and all that he did,</tspan><tspan x="20" dy="22">are they not written in the book of the chronicles of the kings</tspan><tspan x="20" dy="22">of Judah?</tspan>
+    <tspan x="20" dy="0">[8] And his princes gave willingly unto the people, to the</tspan><tspan x="20" dy="22">priests, and to the Levites: Hilkiah and Zechariah and Jehiel,</tspan><tspan x="20" dy="22">rulers of the house of God, gave unto the priests for the</tspan><tspan x="20" dy="22">passover offerings two thousand and six hundred small cattle, and</tspan><tspan x="20" dy="22">three hundred oxen.</tspan>
   </text>
 </svg>

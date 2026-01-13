@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Timothy 1:4**
+> **James 5:20**
 >
-> *"[4] Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do."*
+> *"[20] Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."*
 <!-- VERSE_END -->
 
 ---

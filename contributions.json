@@ -1,5 +1,5 @@
 {
-  "count": 196,
+  "count": 197,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1150,6 +1150,12 @@
       "commit": 196,
       "verse": "2 Chronicles 10:5",
       "text": "[5] And he said unto them, Come again unto me after three days. And the people departed."
+    },
+    {
+      "date": "2026-01-13T23:20:27.090Z",
+      "commit": 197,
+      "verse": "Esther 6:10",
+      "text": "[10] Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken."
     }
   ]
 }

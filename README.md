@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Chronicles 35:8**
+> **1 Samuel 14:39**
 >
-> *"[8] And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen."*
+> *"[39] For, as the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But there was not a man among all the people that answered him."*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 189,
+  "count": 190,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1108,6 +1108,12 @@
       "commit": 189,
       "verse": "2 Chronicles 35:8",
       "text": "[8] And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen."
+    },
+    {
+      "date": "2026-01-13T16:33:12.159Z",
+      "commit": 190,
+      "verse": "1 Samuel 14:39",
+      "text": "[39] For, as the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But there was not a man among all the people that answered him."
     }
   ]
 }

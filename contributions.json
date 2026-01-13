@@ -1,5 +1,5 @@
 {
-  "count": 186,
+  "count": 187,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1090,6 +1090,12 @@
       "commit": 186,
       "verse": "Jeremiah 31:33",
       "text": "[33] But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people."
+    },
+    {
+      "date": "2026-01-13T13:41:42.080Z",
+      "commit": 187,
+      "verse": "Philemon 1:10",
+      "text": "[10] I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
     }
   ]
 }

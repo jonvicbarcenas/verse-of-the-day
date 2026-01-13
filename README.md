@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Jeremiah 31:33**
+> **Philemon 1:10**
 >
-> *"[33] But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people."*
+> *"[10] I beseech thee for my son Onesimus, whom I have begotten in my bonds:"*
 <!-- VERSE_END -->
 
 ---

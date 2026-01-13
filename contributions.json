@@ -1,5 +1,5 @@
 {
-  "count": 194,
+  "count": 195,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1138,6 +1138,12 @@
       "commit": 194,
       "verse": "1 Kings 6:16",
       "text": "[16] And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place."
+    },
+    {
+      "date": "2026-01-13T21:22:11.274Z",
+      "commit": 195,
+      "verse": "2 John 1:9",
+      "text": "[9] Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Kings 6:16**
+> **2 John 1:9**
 >
-> *"[16] And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place."*
+> *"[9] Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."*
 <!-- VERSE_END -->
 
 ---

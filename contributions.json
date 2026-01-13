@@ -1,5 +1,5 @@
 {
-  "count": 193,
+  "count": 194,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1132,6 +1132,12 @@
       "commit": 193,
       "verse": "Malachi 4:2",
       "text": "[2] ¶ But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
+    },
+    {
+      "date": "2026-01-13T20:26:42.865Z",
+      "commit": 194,
+      "verse": "1 Kings 6:16",
+      "text": "[16] And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "count": 209,
+  "count": 210,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1228,6 +1228,12 @@
       "commit": 209,
       "verse": "1 Kings 8:36",
       "text": "[36] Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance."
+    },
+    {
+      "date": "2026-01-14T14:26:43.240Z",
+      "commit": 210,
+      "verse": "Habakkuk 3:1",
+      "text": "[1] A prayer of Habakkuk the prophet upon Shigionoth."
     }
   ]
 }

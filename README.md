@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Kings 8:36**
+> **Habakkuk 3:1**
 >
-> *"[36] Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance."*
+> *"[1] A prayer of Habakkuk the prophet upon Shigionoth."*
 <!-- VERSE_END -->
 
 ---

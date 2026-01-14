@@ -1,5 +1,5 @@
 {
-  "count": 202,
+  "count": 203,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1186,6 +1186,12 @@
       "commit": 202,
       "verse": "Romans 4:8",
       "text": "[8] Blessed is the man to whom the Lord will not impute sin."
+    },
+    {
+      "date": "2026-01-14T07:26:29.549Z",
+      "commit": 203,
+      "verse": "Deuteronomy 28:12",
+      "text": "[12] The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
     }
   ]
 }

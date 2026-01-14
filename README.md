@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Romans 4:8**
+> **Deuteronomy 28:12**
 >
-> *"[8] Blessed is the man to whom the Lord will not impute sin."*
+> *"[12] The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Romans 4:8</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Deuteronomy 28:12</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[8] Blessed is the man to whom the Lord will not impute sin.</tspan>
+    <tspan x="20" dy="0">[12] The LORD shall open unto thee his good treasure, the heaven</tspan><tspan x="20" dy="22">to give the rain unto thy land in his season, and to bless all</tspan><tspan x="20" dy="22">the work of thine hand: and thou shalt lend unto many nations,</tspan><tspan x="20" dy="22">and thou shalt not borrow.</tspan>
   </text>
 </svg>

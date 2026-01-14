@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Hebrews 5:13**
+> **1 Thessalonians 2:16**
 >
-> *"[13] For every one that useth milk is unskilful in the word of righteousness: for he is a babe."*
+> *"[16] Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Hebrews 5:13</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Thessalonians 2:16</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[13] For every one that useth milk is unskilful in the word of</tspan><tspan x="20" dy="22">righteousness: for he is a babe.</tspan>
+    <tspan x="20" dy="0">[16] Forbidding us to speak to the Gentiles that they might be</tspan><tspan x="20" dy="22">saved, to fill up their sins alway: for the wrath is come upon</tspan><tspan x="20" dy="22">them to the uttermost.</tspan>
   </text>
 </svg>

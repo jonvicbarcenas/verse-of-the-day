@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Malachi 4:5**
+> **James 4:10**
 >
-> *"[5] ¶ Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:"*
+> *"[10] Humble yourselves in the sight of the Lord, and he shall lift you up."*
 <!-- VERSE_END -->
 
 ---

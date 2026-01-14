@@ -1,5 +1,5 @@
 {
-  "count": 198,
+  "count": 199,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1162,6 +1162,12 @@
       "commit": 198,
       "verse": "Malachi 4:5",
       "text": "[5] ¶ Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:"
+    },
+    {
+      "date": "2026-01-14T03:48:21.942Z",
+      "commit": 199,
+      "verse": "James 4:10",
+      "text": "[10] Humble yourselves in the sight of the Lord, and he shall lift you up."
     }
   ]
 }

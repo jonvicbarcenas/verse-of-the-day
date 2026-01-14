@@ -1,5 +1,5 @@
 {
-  "count": 211,
+  "count": 212,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1240,6 +1240,12 @@
       "commit": 211,
       "verse": "Deuteronomy 17:12",
       "text": "[12] And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the LORD thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel."
+    },
+    {
+      "date": "2026-01-14T16:31:50.013Z",
+      "commit": 212,
+      "verse": "1 Peter 2:24",
+      "text": "[24] Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."
     }
   ]
 }

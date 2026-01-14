@@ -1,5 +1,5 @@
 {
-  "count": 207,
+  "count": 208,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1216,6 +1216,12 @@
       "commit": 207,
       "verse": "1 Thessalonians 2:16",
       "text": "[16] Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost."
+    },
+    {
+      "date": "2026-01-14T12:49:33.828Z",
+      "commit": 208,
+      "verse": "1 Peter 4:8",
+      "text": "[8] And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."
     }
   ]
 }

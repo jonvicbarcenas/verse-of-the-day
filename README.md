@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Thessalonians 2:16**
+> **1 Peter 4:8**
 >
-> *"[16] Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost."*
+> *"[8] And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."*
 <!-- VERSE_END -->
 
 ---

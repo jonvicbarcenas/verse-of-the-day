@@ -1,5 +1,5 @@
 {
-  "count": 216,
+  "count": 217,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1270,6 +1270,12 @@
       "commit": 216,
       "verse": "Leviticus 23:36",
       "text": "[36] Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it is a solemn assembly; and ye shall do no servile work therein."
+    },
+    {
+      "date": "2026-01-14T21:22:26.010Z",
+      "commit": 217,
+      "verse": "3 John 1:8",
+      "text": "[8] We therefore ought to receive such, that we might be fellowhelpers to the truth."
     }
   ]
 }

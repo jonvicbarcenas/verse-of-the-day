@@ -1,5 +1,5 @@
 {
-  "count": 214,
+  "count": 215,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1258,6 +1258,12 @@
       "commit": 214,
       "verse": "2 Peter 3:15",
       "text": "[15] And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"
+    },
+    {
+      "date": "2026-01-14T19:20:08.720Z",
+      "commit": 215,
+      "verse": "2 Corinthians 9:6",
+      "text": "[6] But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully."
     }
   ]
 }

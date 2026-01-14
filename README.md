@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Peter 3:15**
+> **2 Corinthians 9:6**
 >
-> *"[15] And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"*
+> *"[6] But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully."*
 <!-- VERSE_END -->
 
 ---

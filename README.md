@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Daniel 5:14**
+> **2 Peter 3:15**
 >
-> *"[14] I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee."*
+> *"[15] And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 213,
+  "count": 214,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1252,6 +1252,12 @@
       "commit": 213,
       "verse": "Daniel 5:14",
       "text": "[14] I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee."
+    },
+    {
+      "date": "2026-01-14T18:34:49.648Z",
+      "commit": 214,
+      "verse": "2 Peter 3:15",
+      "text": "[15] And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"
     }
   ]
 }

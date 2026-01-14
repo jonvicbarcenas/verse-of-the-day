@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Habakkuk 3:1**
+> **Deuteronomy 17:12**
 >
-> *"[1] A prayer of Habakkuk the prophet upon Shigionoth."*
+> *"[12] And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the LORD thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel."*
 <!-- VERSE_END -->
 
 ---

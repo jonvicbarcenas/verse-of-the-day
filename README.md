@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 9:19**
+> **Hebrews 5:13**
 >
-> *"[19] And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:"*
+> *"[13] For every one that useth milk is unskilful in the word of righteousness: for he is a babe."*
 <!-- VERSE_END -->
 
 ---

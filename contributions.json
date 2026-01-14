@@ -1,5 +1,5 @@
 {
-  "count": 205,
+  "count": 206,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1204,6 +1204,12 @@
       "commit": 205,
       "verse": "Leviticus 9:19",
       "text": "[19] And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:"
+    },
+    {
+      "date": "2026-01-14T10:26:14.161Z",
+      "commit": 206,
+      "verse": "Hebrews 5:13",
+      "text": "[13] For every one that useth milk is unskilful in the word of righteousness: for he is a babe."
     }
   ]
 }

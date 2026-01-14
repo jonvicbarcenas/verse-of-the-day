@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **James 4:10**
+> **Habakkuk 3:15**
 >
-> *"[10] Humble yourselves in the sight of the Lord, and he shall lift you up."*
+> *"[15] Thou didst walk through the sea with thine horses, through the heap of great waters."*
 <!-- VERSE_END -->
 
 ---

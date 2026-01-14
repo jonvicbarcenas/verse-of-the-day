@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Joel 3:10</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Leviticus 9:19</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[10] Beat your plowshares into swords, and your pruninghooks into</tspan><tspan x="20" dy="22">spears: let the weak say, I am strong.</tspan>
+    <tspan x="20" dy="0">[19] And the fat of the bullock and of the ram, the rump, and</tspan><tspan x="20" dy="22">that which covereth the inwards, and the kidneys, and the caul</tspan><tspan x="20" dy="22">above the liver:</tspan>
   </text>
 </svg>

@@ -1,5 +1,5 @@
 {
-  "count": 204,
+  "count": 205,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1198,6 +1198,12 @@
       "commit": 204,
       "verse": "Joel 3:10",
       "text": "[10] Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong."
+    },
+    {
+      "date": "2026-01-14T09:29:34.018Z",
+      "commit": 205,
+      "verse": "Leviticus 9:19",
+      "text": "[19] And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:"
     }
   ]
 }

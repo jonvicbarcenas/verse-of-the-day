@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Joel 3:10**
+> **Leviticus 9:19**
 >
-> *"[10] Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong."*
+> *"[19] And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:"*
 <!-- VERSE_END -->
 
 ---

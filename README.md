@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Peter 2:24**
+> **Daniel 5:14**
 >
-> *"[24] Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."*
+> *"[14] I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee."*
 <!-- VERSE_END -->
 
 ---

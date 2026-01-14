@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Peter 4:8</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Kings 8:36</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[8] And above all things have fervent charity among yourselves:</tspan><tspan x="20" dy="22">for charity shall cover the multitude of sins.</tspan>
+    <tspan x="20" dy="0">[36] Then hear thou in heaven, and forgive the sin of thy</tspan><tspan x="20" dy="22">servants, and of thy people Israel, that thou teach them the good</tspan><tspan x="20" dy="22">way wherein they should walk, and give rain upon thy land, which</tspan><tspan x="20" dy="22">thou hast given to thy people for an inheritance.</tspan>
   </text>
 </svg>

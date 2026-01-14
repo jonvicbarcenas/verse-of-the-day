@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Peter 4:8**
+> **1 Kings 8:36**
 >
-> *"[8] And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."*
+> *"[36] Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance."*
 <!-- VERSE_END -->
 
 ---

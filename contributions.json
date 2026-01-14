@@ -1,5 +1,5 @@
 {
-  "count": 208,
+  "count": 209,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1222,6 +1222,12 @@
       "commit": 208,
       "verse": "1 Peter 4:8",
       "text": "[8] And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."
+    },
+    {
+      "date": "2026-01-14T13:40:56.206Z",
+      "commit": 209,
+      "verse": "1 Kings 8:36",
+      "text": "[36] Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Corinthians 9:6**
+> **Leviticus 23:36**
 >
-> *"[6] But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully."*
+> *"[36] Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it is a solemn assembly; and ye shall do no servile work therein."*
 <!-- VERSE_END -->
 
 ---

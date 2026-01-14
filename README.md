@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **3 John 1:3**
+> **Romans 4:8**
 >
-> *"[3] For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth."*
+> *"[8] Blessed is the man to whom the Lord will not impute sin."*
 <!-- VERSE_END -->
 
 ---

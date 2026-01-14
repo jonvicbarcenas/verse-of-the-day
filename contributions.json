@@ -1,5 +1,5 @@
 {
-  "count": 197,
+  "count": 198,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1156,6 +1156,12 @@
       "commit": 197,
       "verse": "Esther 6:10",
       "text": "[10] Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken."
+    },
+    {
+      "date": "2026-01-14T01:52:20.290Z",
+      "commit": 198,
+      "verse": "Malachi 4:5",
+      "text": "[5] ¶ Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:"
     }
   ]
 }

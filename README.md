@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Esther 6:10**
+> **Malachi 4:5**
 >
-> *"[10] Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken."*
+> *"[5] ¶ Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:"*
 <!-- VERSE_END -->
 
 ---

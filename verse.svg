@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 3 John 1:8</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ezra 8:1</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[8] We therefore ought to receive such, that we might be</tspan><tspan x="20" dy="22">fellowhelpers to the truth.</tspan>
+    <tspan x="20" dy="0">[1] These are now the chief of their fathers, and this is the</tspan><tspan x="20" dy="22">genealogy of them that went up with me from Babylon, in the reign</tspan><tspan x="20" dy="22">of Artaxerxes the king.</tspan>
   </text>
 </svg>

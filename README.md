@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **3 John 1:8**
+> **Ezra 8:1**
 >
-> *"[8] We therefore ought to receive such, that we might be fellowhelpers to the truth."*
+> *"[1] These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king."*
 <!-- VERSE_END -->
 
 ---

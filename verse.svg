@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Deuteronomy 28:12</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Joel 3:10</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[12] The LORD shall open unto thee his good treasure, the heaven</tspan><tspan x="20" dy="22">to give the rain unto thy land in his season, and to bless all</tspan><tspan x="20" dy="22">the work of thine hand: and thou shalt lend unto many nations,</tspan><tspan x="20" dy="22">and thou shalt not borrow.</tspan>
+    <tspan x="20" dy="0">[10] Beat your plowshares into swords, and your pruninghooks into</tspan><tspan x="20" dy="22">spears: let the weak say, I am strong.</tspan>
   </text>
 </svg>

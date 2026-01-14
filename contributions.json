@@ -1,5 +1,5 @@
 {
-  "count": 203,
+  "count": 204,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1192,6 +1192,12 @@
       "commit": 203,
       "verse": "Deuteronomy 28:12",
       "text": "[12] The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
+    },
+    {
+      "date": "2026-01-14T08:32:05.827Z",
+      "commit": 204,
+      "verse": "Joel 3:10",
+      "text": "[10] Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong."
     }
   ]
 }

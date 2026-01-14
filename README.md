@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Deuteronomy 28:12**
+> **Joel 3:10**
 >
-> *"[12] The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."*
+> *"[10] Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong."*
 <!-- VERSE_END -->
 
 ---

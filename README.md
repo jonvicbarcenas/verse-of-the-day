@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nehemiah 8:3**
+> **1 Corinthians 4:13**
 >
-> *"[3] And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law."*
+> *"[13] Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day."*
 <!-- VERSE_END -->
 
 ---

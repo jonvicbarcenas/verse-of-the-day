@@ -1,5 +1,5 @@
 {
-  "count": 219,
+  "count": 220,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1288,6 +1288,12 @@
       "commit": 219,
       "verse": "Nehemiah 8:3",
       "text": "[3] And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law."
+    },
+    {
+      "date": "2026-01-15T01:47:25.029Z",
+      "commit": 220,
+      "verse": "1 Corinthians 4:13",
+      "text": "[13] Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day."
     }
   ]
 }

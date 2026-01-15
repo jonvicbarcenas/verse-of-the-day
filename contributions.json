@@ -1,5 +1,5 @@
 {
-  "count": 232,
+  "count": 233,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1366,6 +1366,12 @@
       "commit": 232,
       "verse": "2 Kings 13:23",
       "text": "[23] And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet."
+    },
+    {
+      "date": "2026-01-15T15:27:01.987Z",
+      "commit": 233,
+      "verse": "Leviticus 26:3",
+      "text": "[3] ¶ If ye walk in my statutes, and keep my commandments, and do them;"
     }
   ]
 }

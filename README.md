@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Kings 13:23**
+> **Leviticus 26:3**
 >
-> *"[23] And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet."*
+> *"[3] ¶ If ye walk in my statutes, and keep my commandments, and do them;"*
 <!-- VERSE_END -->
 
 ---

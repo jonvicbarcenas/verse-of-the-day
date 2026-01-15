@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Romans 6:2**
+> **Obadiah 1:13**
 >
-> *"[2] God forbid. How shall we, that are dead to sin, live any longer therein?"*
+> *"[13] Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;"*
 <!-- VERSE_END -->
 
 ---

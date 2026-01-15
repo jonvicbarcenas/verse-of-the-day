@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Romans 6:2</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Obadiah 1:13</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[2] God forbid. How shall we, that are dead to sin, live any</tspan><tspan x="20" dy="22">longer therein?</tspan>
+    <tspan x="20" dy="0">[13] Thou shouldest not have entered into the gate of my people</tspan><tspan x="20" dy="22">in the day of their calamity; yea, thou shouldest not have looked</tspan><tspan x="20" dy="22">on their affliction in the day of their calamity, nor have laid</tspan><tspan x="20" dy="22">hands on their substance in the day of their calamity;</tspan>
   </text>
 </svg>

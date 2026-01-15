@@ -1,5 +1,5 @@
 {
-  "count": 234,
+  "count": 235,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1378,6 +1378,12 @@
       "commit": 234,
       "verse": "Romans 6:2",
       "text": "[2] God forbid. How shall we, that are dead to sin, live any longer therein?"
+    },
+    {
+      "date": "2026-01-15T17:32:51.298Z",
+      "commit": 235,
+      "verse": "Obadiah 1:13",
+      "text": "[13] Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;"
     }
   ]
 }

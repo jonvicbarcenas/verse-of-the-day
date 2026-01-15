@@ -1,5 +1,5 @@
 {
-  "count": 226,
+  "count": 227,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1330,6 +1330,12 @@
       "commit": 226,
       "verse": "Haggai 2:2",
       "text": "[2] Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
+    },
+    {
+      "date": "2026-01-15T09:28:54.871Z",
+      "commit": 227,
+      "verse": "2 Kings 20:5",
+      "text": "[5] Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD."
     }
   ]
 }

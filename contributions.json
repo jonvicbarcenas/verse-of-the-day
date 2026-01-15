@@ -1,5 +1,5 @@
 {
-  "count": 238,
+  "count": 239,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1402,6 +1402,12 @@
       "commit": 238,
       "verse": "Revelation 7:9",
       "text": "[9] After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;"
+    },
+    {
+      "date": "2026-01-15T21:22:25.338Z",
+      "commit": 239,
+      "verse": "Acts 10:9",
+      "text": "[9] ¶ On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:"
     }
   ]
 }

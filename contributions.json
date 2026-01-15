@@ -1,5 +1,5 @@
 {
-  "count": 239,
+  "count": 240,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1408,6 +1408,12 @@
       "commit": 239,
       "verse": "Acts 10:9",
       "text": "[9] ¶ On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:"
+    },
+    {
+      "date": "2026-01-15T22:22:36.636Z",
+      "commit": 240,
+      "verse": "Proverbs 3:5-6",
+      "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
     }
   ]
 }

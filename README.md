@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Acts 10:9**
+> **Proverbs 3:5-6**
 >
-> *"[9] ¶ On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:"*
+> *"Trust in the LORD with all thine heart; and lean not unto thine own understanding."*
 <!-- VERSE_END -->
 
 ---

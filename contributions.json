@@ -1,5 +1,5 @@
 {
-  "count": 235,
+  "count": 236,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1384,6 +1384,12 @@
       "commit": 235,
       "verse": "Obadiah 1:13",
       "text": "[13] Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;"
+    },
+    {
+      "date": "2026-01-15T18:37:51.955Z",
+      "commit": 236,
+      "verse": "Ezra 1:1",
+      "text": "[1] Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
     }
   ]
 }

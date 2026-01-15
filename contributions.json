@@ -1,5 +1,5 @@
 {
-  "count": 223,
+  "count": 224,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1312,6 +1312,12 @@
       "commit": 223,
       "verse": "Lamentations 5:7",
       "text": "[7] Our fathers have sinned, and are not; and we have borne their iniquities."
+    },
+    {
+      "date": "2026-01-15T06:35:14.495Z",
+      "commit": 224,
+      "verse": "1 Thessalonians 1:8",
+      "text": "[8] For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing."
     }
   ]
 }

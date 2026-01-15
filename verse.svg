@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Lamentations 5:7</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Thessalonians 1:8</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[7] Our fathers have sinned, and are not; and we have borne their</tspan><tspan x="20" dy="22">iniquities.</tspan>
+    <tspan x="20" dy="0">[8] For from you sounded out the word of the Lord not only in</tspan><tspan x="20" dy="22">Macedonia and Achaia, but also in every place your faith to</tspan><tspan x="20" dy="22">God-ward is spread abroad; so that we need not to speak any</tspan><tspan x="20" dy="22">thing.</tspan>
   </text>
 </svg>

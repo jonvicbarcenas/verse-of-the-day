@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Lamentations 5:7**
+> **1 Thessalonians 1:8**
 >
-> *"[7] Our fathers have sinned, and are not; and we have borne their iniquities."*
+> *"[8] For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing."*
 <!-- VERSE_END -->
 
 ---

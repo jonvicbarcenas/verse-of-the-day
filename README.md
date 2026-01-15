@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Amos 7:13**
+> **2 Corinthians 3:14**
 >
-> *"[13] But prophesy not again any more at Beth-el: for it is the king’s chapel, and it is the king’s court."*
+> *"[14] But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ."*
 <!-- VERSE_END -->
 
 ---

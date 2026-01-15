@@ -1,5 +1,5 @@
 {
-  "count": 229,
+  "count": 230,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1348,6 +1348,12 @@
       "commit": 229,
       "verse": "Amos 7:13",
       "text": "[13] But prophesy not again any more at Beth-el: for it is the king’s chapel, and it is the king’s court."
+    },
+    {
+      "date": "2026-01-15T12:48:43.964Z",
+      "commit": 230,
+      "verse": "2 Corinthians 3:14",
+      "text": "[14] But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Acts 26:15**
+> **Lamentations 5:7**
 >
-> *"[15] And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."*
+> *"[7] Our fathers have sinned, and are not; and we have borne their iniquities."*
 <!-- VERSE_END -->
 
 ---

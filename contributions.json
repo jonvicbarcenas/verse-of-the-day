@@ -1,5 +1,5 @@
 {
-  "count": 225,
+  "count": 226,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1324,6 +1324,12 @@
       "commit": 225,
       "verse": "Daniel 3:29",
       "text": "[29] Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort."
+    },
+    {
+      "date": "2026-01-15T08:32:30.867Z",
+      "commit": 226,
+      "verse": "Haggai 2:2",
+      "text": "[2] Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
     }
   ]
 }

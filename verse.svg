@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Daniel 3:29</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Haggai 2:2</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[29] Therefore I make a decree, That every people, nation, and</tspan><tspan x="20" dy="22">language, which speak any thing amiss against the God of</tspan><tspan x="20" dy="22">Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and</tspan><tspan x="20" dy="22">their houses shall be made a dunghill: because there is no other</tspan><tspan x="20" dy="22">God that can deliver after this sort.</tspan>
+    <tspan x="20" dy="0">[2] Speak now to Zerubbabel the son of Shealtiel, governor of</tspan><tspan x="20" dy="22">Judah, and to Joshua the son of Josedech, the high priest, and to</tspan><tspan x="20" dy="22">the residue of the people, saying,</tspan>
   </text>
 </svg>

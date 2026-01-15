@@ -1,5 +1,5 @@
 {
-  "count": 227,
+  "count": 228,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1336,6 +1336,12 @@
       "commit": 227,
       "verse": "2 Kings 20:5",
       "text": "[5] Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD."
+    },
+    {
+      "date": "2026-01-15T10:26:19.477Z",
+      "commit": 228,
+      "verse": "3 John 1:13",
+      "text": "[13] I had many things to write, but I will not with ink and pen write unto thee:"
     }
   ]
 }

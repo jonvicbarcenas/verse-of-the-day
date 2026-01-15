@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 26:3**
+> **Romans 6:2**
 >
-> *"[3] ¶ If ye walk in my statutes, and keep my commandments, and do them;"*
+> *"[2] God forbid. How shall we, that are dead to sin, live any longer therein?"*
 <!-- VERSE_END -->
 
 ---

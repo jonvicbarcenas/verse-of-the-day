@@ -1,5 +1,5 @@
 {
-  "count": 233,
+  "count": 234,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1372,6 +1372,12 @@
       "commit": 233,
       "verse": "Leviticus 26:3",
       "text": "[3] ¶ If ye walk in my statutes, and keep my commandments, and do them;"
+    },
+    {
+      "date": "2026-01-15T16:36:17.157Z",
+      "commit": 234,
+      "verse": "Romans 6:2",
+      "text": "[2] God forbid. How shall we, that are dead to sin, live any longer therein?"
     }
   ]
 }

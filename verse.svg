@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ezra 1:1</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Genesis 30:37</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[1] Now in the first year of Cyrus king of Persia, that the word</tspan><tspan x="20" dy="22">of the LORD by the mouth of Jeremiah might be fulfilled, the LORD</tspan><tspan x="20" dy="22">stirred up the spirit of Cyrus king of Persia, that he made a</tspan><tspan x="20" dy="22">proclamation throughout all his kingdom, and put it also in</tspan><tspan x="20" dy="22">writing, saying,</tspan>
+    <tspan x="20" dy="0">[37] ¶ And Jacob took him rods of green poplar, and of the hazel</tspan><tspan x="20" dy="22">and chesnut tree; and pilled white strakes in them, and made the</tspan><tspan x="20" dy="22">white appear which was in the rods.</tspan>
   </text>
 </svg>

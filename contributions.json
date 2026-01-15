@@ -1,5 +1,5 @@
 {
-  "count": 231,
+  "count": 232,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1360,6 +1360,12 @@
       "commit": 231,
       "verse": "Hosea 11:12",
       "text": "[12] Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints."
+    },
+    {
+      "date": "2026-01-15T14:25:59.928Z",
+      "commit": 232,
+      "verse": "2 Kings 13:23",
+      "text": "[23] And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet."
     }
   ]
 }

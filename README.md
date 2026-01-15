@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Timothy 3:14**
+> **Acts 26:15**
 >
-> *"[14] These things write I unto thee, hoping to come unto thee shortly:"*
+> *"[15] And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."*
 <!-- VERSE_END -->
 
 ---

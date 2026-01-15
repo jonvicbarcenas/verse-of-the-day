@@ -1,5 +1,5 @@
 {
-  "count": 228,
+  "count": 229,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1342,6 +1342,12 @@
       "commit": 228,
       "verse": "3 John 1:13",
       "text": "[13] I had many things to write, but I will not with ink and pen write unto thee:"
+    },
+    {
+      "date": "2026-01-15T11:20:52.364Z",
+      "commit": 229,
+      "verse": "Amos 7:13",
+      "text": "[13] But prophesy not again any more at Beth-el: for it is the king’s chapel, and it is the king’s court."
     }
   ]
 }

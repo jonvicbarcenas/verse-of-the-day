@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **3 John 1:13**
+> **Amos 7:13**
 >
-> *"[13] I had many things to write, but I will not with ink and pen write unto thee:"*
+> *"[13] But prophesy not again any more at Beth-el: for it is the king’s chapel, and it is the king’s court."*
 <!-- VERSE_END -->
 
 ---

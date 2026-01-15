@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Corinthians 4:13**
+> **1 Timothy 3:14**
 >
-> *"[13] Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day."*
+> *"[14] These things write I unto thee, hoping to come unto thee shortly:"*
 <!-- VERSE_END -->
 
 ---

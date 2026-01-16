@@ -1,5 +1,5 @@
 {
-  "count": 261,
+  "count": 262,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1540,6 +1540,12 @@
       "commit": 261,
       "verse": "Proverbs 3:5-6",
       "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+    },
+    {
+      "date": "2026-01-16T22:22:13.763Z",
+      "commit": 262,
+      "verse": "Nahum 3:13",
+      "text": "[13] Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Proverbs 3:5-6**
+> **Nahum 3:13**
 >
-> *"Trust in the LORD with all thine heart; and lean not unto thine own understanding."*
+> *"[13] Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."*
 <!-- VERSE_END -->
 
 ---

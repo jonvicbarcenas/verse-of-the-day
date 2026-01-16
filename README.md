@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nahum 3:13**
+> **Leviticus 22:19**
 >
-> *"[13] Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."*
+> *"[19] Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."*
 <!-- VERSE_END -->
 
 ---

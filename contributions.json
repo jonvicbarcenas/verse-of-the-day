@@ -1,5 +1,5 @@
 {
-  "count": 262,
+  "count": 263,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1546,6 +1546,12 @@
       "commit": 262,
       "verse": "Nahum 3:13",
       "text": "[13] Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."
+    },
+    {
+      "date": "2026-01-16T23:21:02.692Z",
+      "commit": 263,
+      "verse": "Leviticus 22:19",
+      "text": "[19] Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."
     }
   ]
 }

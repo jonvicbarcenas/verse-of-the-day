@@ -1,5 +1,5 @@
 {
-  "count": 273,
+  "count": 274,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1612,6 +1612,12 @@
       "commit": 273,
       "verse": "2 Timothy 1:1",
       "text": "[1] Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"
+    },
+    {
+      "date": "2026-01-17T12:41:05.205Z",
+      "commit": 274,
+      "verse": "Exodus 32:32",
+      "text": "[32] Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written."
     }
   ]
 }

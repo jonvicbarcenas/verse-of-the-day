@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Timothy 1:1**
+> **Exodus 32:32**
 >
-> *"[1] Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"*
+> *"[32] Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written."*
 <!-- VERSE_END -->
 
 ---

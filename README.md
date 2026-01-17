@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Nehemiah 1:3**
+> **Ephesians 3:21**
 >
-> *"[3] And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."*
+> *"[21] Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Galatians 5:11**
+> **Micah 4:3**
 >
-> *"[11] And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."*
+> *"[3] ¶ And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more."*
 <!-- VERSE_END -->
 
 ---

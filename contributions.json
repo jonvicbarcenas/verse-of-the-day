@@ -1,5 +1,5 @@
 {
-  "count": 283,
+  "count": 284,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1672,6 +1672,12 @@
       "commit": 283,
       "verse": "Galatians 5:11",
       "text": "[11] And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."
+    },
+    {
+      "date": "2026-01-17T22:20:12.563Z",
+      "commit": 284,
+      "verse": "Micah 4:3",
+      "text": "[3] ¶ And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more."
     }
   ]
 }

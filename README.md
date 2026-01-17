@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Peter 2:15**
+> **Amos 2:14**
 >
-> *"[15] Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;"*
+> *"[14] Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:"*
 <!-- VERSE_END -->
 
 ---

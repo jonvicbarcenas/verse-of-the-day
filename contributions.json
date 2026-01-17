@@ -1,5 +1,5 @@
 {
-  "count": 274,
+  "count": 275,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1618,6 +1618,12 @@
       "commit": 274,
       "verse": "Exodus 32:32",
       "text": "[32] Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written."
+    },
+    {
+      "date": "2026-01-17T13:29:14.235Z",
+      "commit": 275,
+      "verse": "2 Peter 2:15",
+      "text": "[15] Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;"
     }
   ]
 }

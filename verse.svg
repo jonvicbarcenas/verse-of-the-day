@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 Chronicles 9:15</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Hebrews 4:3</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[15] And Bakbakkar, Heresh, and Galal, and Mattaniah the son of</tspan><tspan x="20" dy="22">Micah, the son of Zichri, the son of Asaph;</tspan>
+    <tspan x="20" dy="0">[3] For we which have believed do enter into rest, as he said, As</tspan><tspan x="20" dy="22">I have sworn in my wrath, if they shall enter into my rest:</tspan><tspan x="20" dy="22">although the works were finished from the foundation of the</tspan><tspan x="20" dy="22">world.</tspan>
   </text>
 </svg>

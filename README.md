@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Chronicles 9:15**
+> **Hebrews 4:3**
 >
-> *"[15] And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;"*
+> *"[3] For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world."*
 <!-- VERSE_END -->
 
 ---

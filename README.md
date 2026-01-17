@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Revelation 6:3**
+> **Jeremiah 17:6**
 >
-> *"[3] And when he had opened the second seal, I heard the second beast say, Come and see."*
+> *"[6] For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited."*
 <!-- VERSE_END -->
 
 ---

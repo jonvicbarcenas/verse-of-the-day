@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Jeremiah 17:6</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Amos 3:2</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[6] For he shall be like the heath in the desert, and shall not</tspan><tspan x="20" dy="22">see when good cometh; but shall inhabit the parched places in the</tspan><tspan x="20" dy="22">wilderness, in a salt land and not inhabited.</tspan>
+    <tspan x="20" dy="0">[2] You only have I known of all the families of the earth:</tspan><tspan x="20" dy="22">therefore I will punish you for all your iniquities.</tspan>
   </text>
 </svg>

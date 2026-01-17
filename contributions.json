@@ -1,5 +1,5 @@
 {
-  "count": 263,
+  "count": 264,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1552,6 +1552,12 @@
       "commit": 263,
       "verse": "Leviticus 22:19",
       "text": "[19] Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."
+    },
+    {
+      "date": "2026-01-17T01:43:45.371Z",
+      "commit": 264,
+      "verse": "Colossians 4:2",
+      "text": "[2] Continue in prayer, and watch in the same with thanksgiving;"
     }
   ]
 }

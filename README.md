@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Leviticus 22:19**
+> **Colossians 4:2**
 >
-> *"[19] Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."*
+> *"[2] Continue in prayer, and watch in the same with thanksgiving;"*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 279,
+  "count": 280,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1648,6 +1648,12 @@
       "commit": 279,
       "verse": "Hebrews 4:3",
       "text": "[3] For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world."
+    },
+    {
+      "date": "2026-01-17T18:29:37.345Z",
+      "commit": 280,
+      "verse": "Revelation 6:3",
+      "text": "[3] And when he had opened the second seal, I heard the second beast say, Come and see."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Hebrews 4:3**
+> **Revelation 6:3**
 >
-> *"[3] For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world."*
+> *"[3] And when he had opened the second seal, I heard the second beast say, Come and see."*
 <!-- VERSE_END -->
 
 ---

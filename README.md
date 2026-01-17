@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Kings 6:34**
+> **Ecclesiastes 8:12**
 >
-> *"[34] And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding."*
+> *"[12] ¶ Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:"*
 <!-- VERSE_END -->
 
 ---

@@ -1,5 +1,5 @@
 {
-  "count": 268,
+  "count": 269,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1582,6 +1582,12 @@
       "commit": 268,
       "verse": "1 Kings 6:34",
       "text": "[34] And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding."
+    },
+    {
+      "date": "2026-01-17T07:19:39.642Z",
+      "commit": 269,
+      "verse": "Ecclesiastes 8:12",
+      "text": "[12] ¶ Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:"
     }
   ]
 }

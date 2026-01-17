@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ecclesiastes 8:12</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Song of Solomon 6:3</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[12] ¶ Though a sinner do evil an hundred times, and his days be</tspan><tspan x="20" dy="22">prolonged, yet surely I know that it shall be well with them that</tspan><tspan x="20" dy="22">fear God, which fear before him:</tspan>
+    <tspan x="20" dy="0">[3] I am my beloved’s, and my beloved is mine: he feedeth among</tspan><tspan x="20" dy="22">the lilies.</tspan>
   </text>
 </svg>

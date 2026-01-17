@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ecclesiastes 8:12**
+> **Song of Solomon 6:3**
 >
-> *"[12] ¶ Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:"*
+> *"[3] I am my beloved’s, and my beloved is mine: he feedeth among the lilies."*
 <!-- VERSE_END -->
 
 ---

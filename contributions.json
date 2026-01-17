@@ -1,5 +1,5 @@
 {
-  "count": 271,
+  "count": 272,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1600,6 +1600,12 @@
       "commit": 271,
       "verse": "Leviticus 7:19",
       "text": "[19] And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof."
+    },
+    {
+      "date": "2026-01-17T10:20:57.471Z",
+      "commit": 272,
+      "verse": "Exodus 16:6",
+      "text": "[6] And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
     }
   ]
 }

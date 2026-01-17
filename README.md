@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Song of Solomon 6:3**
+> **Leviticus 7:19**
 >
-> *"[3] I am my beloved’s, and my beloved is mine: he feedeth among the lilies."*
+> *"[19] And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof."*
 <!-- VERSE_END -->
 
 ---

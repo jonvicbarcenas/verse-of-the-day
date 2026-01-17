@@ -1,5 +1,5 @@
 {
-  "count": 267,
+  "count": 268,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1576,6 +1576,12 @@
       "commit": 267,
       "verse": "Song of Solomon 5:7",
       "text": "[7] The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me."
+    },
+    {
+      "date": "2026-01-17T06:31:55.250Z",
+      "commit": 268,
+      "verse": "1 Kings 6:34",
+      "text": "[34] And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding."
     }
   ]
 }

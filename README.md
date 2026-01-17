@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Song of Solomon 5:7**
+> **1 Kings 6:34**
 >
-> *"[7] The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me."*
+> *"[34] And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Amos 3:2**
+> **Galatians 5:11**
 >
-> *"[2] You only have I known of all the families of the earth: therefore I will punish you for all your iniquities."*
+> *"[11] And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ephesians 3:21**
+> **Song of Solomon 5:7**
 >
-> *"[21] Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."*
+> *"[7] The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me."*
 <!-- VERSE_END -->
 
 ---

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ephesians 3:21</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Song of Solomon 5:7</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[21] Unto him be glory in the church by Christ Jesus throughout</tspan><tspan x="20" dy="22">all ages, world without end. Amen.</tspan>
+    <tspan x="20" dy="0">[7] The watchmen that went about the city found me, they smote</tspan><tspan x="20" dy="22">me, they wounded me; the keepers of the walls took away my veil</tspan><tspan x="20" dy="22">from me.</tspan>
   </text>
 </svg>

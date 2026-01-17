@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Colossians 4:2**
+> **Nehemiah 1:3**
 >
-> *"[2] Continue in prayer, and watch in the same with thanksgiving;"*
+> *"[3] And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."*
 <!-- VERSE_END -->
 
 ---

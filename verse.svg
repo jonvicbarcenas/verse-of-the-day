@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Colossians 4:2</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Nehemiah 1:3</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[2] Continue in prayer, and watch in the same with thanksgiving;</tspan>
+    <tspan x="20" dy="0">[3] And they said unto me, The remnant that are left of the</tspan><tspan x="20" dy="22">captivity there in the province are in great affliction and</tspan><tspan x="20" dy="22">reproach: the wall of Jerusalem also is broken down, and the</tspan><tspan x="20" dy="22">gates thereof are burned with fire.</tspan>
   </text>
 </svg>

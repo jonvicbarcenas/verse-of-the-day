@@ -1,5 +1,5 @@
 {
-  "count": 264,
+  "count": 265,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1558,6 +1558,12 @@
       "commit": 264,
       "verse": "Colossians 4:2",
       "text": "[2] Continue in prayer, and watch in the same with thanksgiving;"
+    },
+    {
+      "date": "2026-01-17T03:23:16.877Z",
+      "commit": 265,
+      "verse": "Nehemiah 1:3",
+      "text": "[3] And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
     }
   ]
 }

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Exodus 16:6</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 Timothy 1:1</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[6] And Moses and Aaron said unto all the children of Israel, At</tspan><tspan x="20" dy="22">even, then ye shall know that the LORD hath brought you out from</tspan><tspan x="20" dy="22">the land of Egypt:</tspan>
+    <tspan x="20" dy="0">[1] Paul, an apostle of Jesus Christ by the will of God,</tspan><tspan x="20" dy="22">according to the promise of life which is in Christ Jesus,</tspan>
   </text>
 </svg>

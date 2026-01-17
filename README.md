@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Exodus 16:6**
+> **2 Timothy 1:1**
 >
-> *"[6] And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"*
+> *"[1] Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"*
 <!-- VERSE_END -->
 
 ---

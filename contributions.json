@@ -1,5 +1,5 @@
 {
-  "count": 295,
+  "count": 296,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1744,6 +1744,12 @@
       "commit": 295,
       "verse": "1 Kings 10:21",
       "text": "[21] ¶ And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon."
+    },
+    {
+      "date": "2026-01-18T12:41:02.152Z",
+      "commit": 296,
+      "verse": "Ezra 6:10",
+      "text": "[10] That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons."
     }
   ]
 }

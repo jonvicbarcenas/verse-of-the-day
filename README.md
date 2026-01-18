@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 Kings 10:21**
+> **Ezra 6:10**
 >
-> *"[21] ¶ And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon."*
+> *"[10] That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons."*
 <!-- VERSE_END -->
 
 ---

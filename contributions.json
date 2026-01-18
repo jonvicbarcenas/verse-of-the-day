@@ -1,5 +1,5 @@
 {
-  "count": 299,
+  "count": 300,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1768,6 +1768,12 @@
       "commit": 299,
       "verse": "Hosea 1:10",
       "text": "[10] ¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God."
+    },
+    {
+      "date": "2026-01-18T16:25:50.816Z",
+      "commit": 300,
+      "verse": "Zephaniah 2:1",
+      "text": "[1] Gather yourselves together, yea, gather together, O nation not desired;"
     }
   ]
 }

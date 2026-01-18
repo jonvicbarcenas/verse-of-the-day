@@ -1,5 +1,5 @@
 {
-  "count": 304,
+  "count": 305,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1798,6 +1798,12 @@
       "commit": 304,
       "verse": "Ruth 2:12",
       "text": "[12] The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust."
+    },
+    {
+      "date": "2026-01-18T21:19:00.207Z",
+      "commit": 305,
+      "verse": "Ephesians 3:17",
+      "text": "[17] That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"
     }
   ]
 }

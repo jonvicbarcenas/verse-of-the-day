@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ruth 2:12**
+> **Ephesians 3:17**
 >
-> *"[12] The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust."*
+> *"[17] That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"*
 <!-- VERSE_END -->
 
 ---

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Acts 3:17**
+> **Ecclesiastes 1:9**
 >
-> *"[17] And now, brethren, I wot that through ignorance ye did it, as did also your rulers."*
+> *"[9] The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."*
 <!-- VERSE_END -->
 
 ---

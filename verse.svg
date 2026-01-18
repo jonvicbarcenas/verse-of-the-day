@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Acts 3:17</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ecclesiastes 1:9</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[17] And now, brethren, I wot that through ignorance ye did it,</tspan><tspan x="20" dy="22">as did also your rulers.</tspan>
+    <tspan x="20" dy="0">[9] The thing that hath been, it is that which shall be; and that</tspan><tspan x="20" dy="22">which is done is that which shall be done: and there is no new</tspan><tspan x="20" dy="22">thing under the sun.</tspan>
   </text>
 </svg>

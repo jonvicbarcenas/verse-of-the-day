@@ -1,5 +1,5 @@
 {
-  "count": 292,
+  "count": 293,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1726,6 +1726,12 @@
       "commit": 292,
       "verse": "Matthew 23:10",
       "text": "[10] Neither be ye called masters: for one is your Master, even Christ."
+    },
+    {
+      "date": "2026-01-18T09:21:54.592Z",
+      "commit": 293,
+      "verse": "Job 34:30",
+      "text": "[30] That the hypocrite reign not, lest the people be ensnared."
     }
   ]
 }

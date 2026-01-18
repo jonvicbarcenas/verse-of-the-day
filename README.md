@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Matthew 23:10**
+> **Job 34:30**
 >
-> *"[10] Neither be ye called masters: for one is your Master, even Christ."*
+> *"[30] That the hypocrite reign not, lest the people be ensnared."*
 <!-- VERSE_END -->
 
 ---

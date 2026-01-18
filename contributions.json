@@ -1,5 +1,5 @@
 {
-  "count": 303,
+  "count": 304,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1792,6 +1792,12 @@
       "commit": 303,
       "verse": "Genesis 44:25",
       "text": "[25] And our father said, Go again, and buy us a little food."
+    },
+    {
+      "date": "2026-01-18T20:23:23.343Z",
+      "commit": 304,
+      "verse": "Ruth 2:12",
+      "text": "[12] The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust."
     }
   ]
 }

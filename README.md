@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Genesis 44:25**
+> **Ruth 2:12**
 >
-> *"[25] And our father said, Go again, and buy us a little food."*
+> *"[12] The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust."*
 <!-- VERSE_END -->
 
 ---

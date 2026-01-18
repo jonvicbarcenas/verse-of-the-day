@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 Peter 1:5**
+> **Habakkuk 3:10**
 >
-> *"[5] And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"*
+> *"[10] The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high."*
 <!-- VERSE_END -->
 
 ---

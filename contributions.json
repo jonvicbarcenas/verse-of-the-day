@@ -1,5 +1,5 @@
 {
-  "count": 287,
+  "count": 288,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1696,6 +1696,12 @@
       "commit": 287,
       "verse": "2 Peter 1:5",
       "text": "[5] And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
+    },
+    {
+      "date": "2026-01-18T04:42:00.684Z",
+      "commit": 288,
+      "verse": "Habakkuk 3:10",
+      "text": "[10] The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Zephaniah 2:1**
+> **Acts 3:17**
 >
-> *"[1] Gather yourselves together, yea, gather together, O nation not desired;"*
+> *"[17] And now, brethren, I wot that through ignorance ye did it, as did also your rulers."*
 <!-- VERSE_END -->
 
 ---

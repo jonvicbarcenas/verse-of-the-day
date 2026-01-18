@@ -1,5 +1,5 @@
 {
-  "count": 300,
+  "count": 301,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1774,6 +1774,12 @@
       "commit": 300,
       "verse": "Zephaniah 2:1",
       "text": "[1] Gather yourselves together, yea, gather together, O nation not desired;"
+    },
+    {
+      "date": "2026-01-18T17:18:22.119Z",
+      "commit": 301,
+      "verse": "Acts 3:17",
+      "text": "[17] And now, brethren, I wot that through ignorance ye did it, as did also your rulers."
     }
   ]
 }

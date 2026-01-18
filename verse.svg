@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Ephesians 3:17</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 John 1:11</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[17] That Christ may dwell in your hearts by faith; that ye,</tspan><tspan x="20" dy="22">being rooted and grounded in love,</tspan>
+    <tspan x="20" dy="0">[11] For he that biddeth him God speed is partaker of his evil</tspan><tspan x="20" dy="22">deeds.</tspan>
   </text>
 </svg>

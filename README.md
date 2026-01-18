@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ephesians 3:17**
+> **2 John 1:11**
 >
-> *"[17] That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"*
+> *"[11] For he that biddeth him God speed is partaker of his evil deeds."*
 <!-- VERSE_END -->
 
 ---

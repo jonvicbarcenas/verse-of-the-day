@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Job 34:30**
+> **Philippians 4:19**
 >
-> *"[30] That the hypocrite reign not, lest the people be ensnared."*
+> *"[19] But my God shall supply all your need according to his riches in glory by Christ Jesus."*
 <!-- VERSE_END -->
 
 ---

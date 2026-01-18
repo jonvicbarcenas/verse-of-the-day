@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Numbers 35:30**
+> **John 15:12**
 >
-> *"[30] Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die."*
+> *"[12] This is my commandment, That ye love one another, as I have loved you."*
 <!-- VERSE_END -->
 
 ---

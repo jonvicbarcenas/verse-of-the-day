@@ -1,5 +1,5 @@
 {
-  "count": 289,
+  "count": 290,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1708,6 +1708,12 @@
       "commit": 289,
       "verse": "Numbers 35:30",
       "text": "[30] Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die."
+    },
+    {
+      "date": "2026-01-18T06:32:39.559Z",
+      "commit": 290,
+      "verse": "John 15:12",
+      "text": "[12] This is my commandment, That ye love one another, as I have loved you."
     }
   ]
 }

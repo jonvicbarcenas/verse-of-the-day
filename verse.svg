@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="156">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Numbers 35:30</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 John 15:12</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[30] Whoso killeth any person, the murderer shall be put to death</tspan><tspan x="20" dy="22">by the mouth of witnesses: but one witness shall not testify</tspan><tspan x="20" dy="22">against any person to cause him to die.</tspan>
+    <tspan x="20" dy="0">[12] This is my commandment, That ye love one another, as I have</tspan><tspan x="20" dy="22">loved you.</tspan>
   </text>
 </svg>

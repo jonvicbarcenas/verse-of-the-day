@@ -1,5 +1,5 @@
 {
-  "count": 294,
+  "count": 295,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1738,6 +1738,12 @@
       "commit": 294,
       "verse": "Philippians 4:19",
       "text": "[19] But my God shall supply all your need according to his riches in glory by Christ Jesus."
+    },
+    {
+      "date": "2026-01-18T11:17:27.001Z",
+      "commit": 295,
+      "verse": "1 Kings 10:21",
+      "text": "[21] ¶ And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon."
     }
   ]
 }

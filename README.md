@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Philippians 4:19**
+> **1 Kings 10:21**
 >
-> *"[19] But my God shall supply all your need according to his riches in glory by Christ Jesus."*
+> *"[21] ¶ And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon."*
 <!-- VERSE_END -->
 
 ---

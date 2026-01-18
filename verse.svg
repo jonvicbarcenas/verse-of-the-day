@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 1 John 2:13</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 2 John 1:13</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[13] I write unto you, fathers, because ye have known him that is</tspan><tspan x="20" dy="22">from the beginning. I write unto you, young men, because ye have</tspan><tspan x="20" dy="22">overcome the wicked one. I write unto you, little children,</tspan><tspan x="20" dy="22">because ye have known the Father.</tspan>
+    <tspan x="20" dy="0">[13] The children of thy elect sister greet thee. Amen.</tspan>
   </text>
 </svg>

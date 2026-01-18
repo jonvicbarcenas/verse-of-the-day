@@ -1,5 +1,5 @@
 {
-  "count": 285,
+  "count": 286,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1684,6 +1684,12 @@
       "commit": 285,
       "verse": "1 John 2:13",
       "text": "[13] I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father."
+    },
+    {
+      "date": "2026-01-18T01:55:33.365Z",
+      "commit": 286,
+      "verse": "2 John 1:13",
+      "text": "[13] The children of thy elect sister greet thee. Amen."
     }
   ]
 }

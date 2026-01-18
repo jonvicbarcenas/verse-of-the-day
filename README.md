@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **1 John 2:13**
+> **2 John 1:13**
 >
-> *"[13] I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father."*
+> *"[13] The children of thy elect sister greet thee. Amen."*
 <!-- VERSE_END -->
 
 ---

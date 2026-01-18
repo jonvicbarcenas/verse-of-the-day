@@ -1,5 +1,5 @@
 {
-  "count": 288,
+  "count": 289,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1702,6 +1702,12 @@
       "commit": 288,
       "verse": "Habakkuk 3:10",
       "text": "[10] The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high."
+    },
+    {
+      "date": "2026-01-18T05:24:10.806Z",
+      "commit": 289,
+      "verse": "Numbers 35:30",
+      "text": "[30] Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die."
     }
   ]
 }

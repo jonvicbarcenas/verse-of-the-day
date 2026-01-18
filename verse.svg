@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="178">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
-  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Zephaniah 2:5</text>
+  <text x="20" y="35" fill="#70a1ff" font-family="Arial, sans-serif" font-weight="bold" font-size="16">📖 Matthew 23:10</text>
   <text x="20" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-    <tspan x="20" dy="0">[5] Woe unto the inhabitants of the sea coast, the nation of the</tspan><tspan x="20" dy="22">Cherethites! the word of the LORD is against you; O Canaan, the</tspan><tspan x="20" dy="22">land of the Philistines, I will even destroy thee, that there</tspan><tspan x="20" dy="22">shall be no inhabitant.</tspan>
+    <tspan x="20" dy="0">[10] Neither be ye called masters: for one is your Master, even</tspan><tspan x="20" dy="22">Christ.</tspan>
   </text>
 </svg>

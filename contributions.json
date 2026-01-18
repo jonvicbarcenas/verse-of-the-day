@@ -1,5 +1,5 @@
 {
-  "count": 291,
+  "count": 292,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1720,6 +1720,12 @@
       "commit": 291,
       "verse": "Zephaniah 2:5",
       "text": "[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
+    },
+    {
+      "date": "2026-01-18T08:28:11.766Z",
+      "commit": 292,
+      "verse": "Matthew 23:10",
+      "text": "[10] Neither be ye called masters: for one is your Master, even Christ."
     }
   ]
 }

@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Zephaniah 2:5**
+> **Matthew 23:10**
 >
-> *"[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."*
+> *"[10] Neither be ye called masters: for one is your Master, even Christ."*
 <!-- VERSE_END -->
 
 ---

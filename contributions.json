@@ -1,5 +1,5 @@
 {
-  "count": 290,
+  "count": 291,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1714,6 +1714,12 @@
       "commit": 290,
       "verse": "John 15:12",
       "text": "[12] This is my commandment, That ye love one another, as I have loved you."
+    },
+    {
+      "date": "2026-01-18T07:20:25.445Z",
+      "commit": 291,
+      "verse": "Zephaniah 2:5",
+      "text": "[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
     }
   ]
 }

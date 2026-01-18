@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **John 15:12**
+> **Zephaniah 2:5**
 >
-> *"[12] This is my commandment, That ye love one another, as I have loved you."*
+> *"[5] Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."*
 <!-- VERSE_END -->
 
 ---

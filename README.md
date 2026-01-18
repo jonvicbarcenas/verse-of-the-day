@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Philippians 3:3**
+> **Daniel 2:3**
 >
-> *"[3] For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."*
+> *"[3] And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream."*
 <!-- VERSE_END -->
 
 ---

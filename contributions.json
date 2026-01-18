@@ -1,5 +1,5 @@
 {
-  "count": 297,
+  "count": 298,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1756,6 +1756,12 @@
       "commit": 297,
       "verse": "Philippians 3:3",
       "text": "[3] For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
+    },
+    {
+      "date": "2026-01-18T14:18:51.483Z",
+      "commit": 298,
+      "verse": "Daniel 2:3",
+      "text": "[3] And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream."
     }
   ]
 }

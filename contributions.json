@@ -1,5 +1,5 @@
 {
-  "count": 302,
+  "count": 303,
   "history": [
     {
       "date": "2025-12-25T06:04:17.282Z",
@@ -1786,6 +1786,12 @@
       "commit": 302,
       "verse": "Ecclesiastes 1:9",
       "text": "[9] The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
+    },
+    {
+      "date": "2026-01-18T19:16:27.835Z",
+      "commit": 303,
+      "verse": "Genesis 44:25",
+      "text": "[25] And our father said, Go again, and buy us a little food."
     }
   ]
 }

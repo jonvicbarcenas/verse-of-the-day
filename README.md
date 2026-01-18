@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ecclesiastes 1:9**
+> **Genesis 44:25**
 >
-> *"[9] The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."*
+> *"[25] And our father said, Go again, and buy us a little food."*
 <!-- VERSE_END -->
 
 ---

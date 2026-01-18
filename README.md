@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **Ezra 6:10**
+> **Philippians 3:3**
 >
-> *"[10] That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons."*
+> *"[3] For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."*
 <!-- VERSE_END -->
 
 ---

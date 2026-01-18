@@ -7,9 +7,9 @@ Automated daily GitHub contributions with a random Bible verse.
 <!-- VERSE_START -->
 ![Today's Verse](verse.svg)
 
-> **2 John 1:13**
+> **2 Peter 1:5**
 >
-> *"[13] The children of thy elect sister greet thee. Amen."*
+> *"[5] And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"*
 <!-- VERSE_END -->
 
 ---
